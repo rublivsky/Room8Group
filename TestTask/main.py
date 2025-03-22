@@ -1,88 +1,55 @@
-# import requests
-# from bs4 import BeautifulSoup
-# import time
-
-# def parse_games(status: int, max_pages: int = 10):
-#     url = "https://www.gamepressure.com/ajax/gry-szukaj.asp"
-    
-#     headers = {
-#         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0",
-#         "Origin": "https://www.gamepressure.com",
-#         "Referer": "https://www.gamepressure.com/games/search/",
-#         "Content-Type": "application/x-www-form-urlencoded",
-#         "Cookie": "ASPSESSIONIDQGBCSQRR=NMKPDIOCIMPJFPCKJKGILIOJ"
-#     }
-
-#     all_games = []
-    
-#     for page in range(1, max_pages + 1):
-#         data = {
-#             "status": status,  # 0 - Released, 1 - Upcoming
-#             "page": page,
-#             "sort": "date",    # Параметр сортировки
-#             "platform": "all"  # Фильтр платформ (может потребоваться уточнение)
-#         }
-
-#         try:
-#             response = requests.post(
-#                 url, 
-#                 headers=headers, 
-#                 data=data, 
-#                 timeout=10
-#             )
-#             response.raise_for_status()
-            
-#             # Парсинг HTML-ответа
-#             soup = BeautifulSoup(response.text, "html.parser")
-            
-#             # Пример парсинга (настройте под структуру сайта)
-#             games = soup.select(".game-item")
-#             if not games:
-#                 print(f"Страница {page} пустая")
-#                 break  # Прекращаем если страницы пустые
-                
-#             for game in games:
-#                 title = game.select_one(".title").text.strip()
-#                 platform = game.select_one(".platform").text.strip()
-#                 release_date = game.select_one(".date").text.strip()
-                
-#                 all_games.append({
-#                     "title": title,
-#                     "platform": platform,
-#                     "release_date": release_date,
-#                     "status": "Released" if status == 0 else "Upcoming"
-#                 })
-
-#             time.sleep(1.5)  # Задержка против блокировки
-
-#         except Exception as e:
-#             print(f"Ошибка на странице {page}: {str(e)}")
-#             break
-
-#     return all_games
-
-# # Сбор данных
-# released = parse_games(status=0)  # Выпущенные игры
-# upcoming = parse_games(status=1)  # Предстоящие игры
-
-# # Объединение результатов
-# all_games = released + upcoming
-
+import json
 import requests
-from bs4 import BeautifulSoup
- 
-# Define your target URL
-url = 'https://www.gamepressure.com/games/kingdom-come-deliverance-ii/z369b2'
- 
-# Send an HTTP GET request and fetch the HTML content
-response = requests.get(url)
- 
-# Fetch the HTML content
-html_content = response.text
-print(response.status_code)
+import pandas as pd
+
+def request_api(offset):
+    # Формируем URL с учетом пагинации
+    url = f'https://vginsights.com/api/v1/games?gameTypes=10,20&released=&exclude_gameTypes=30&limit=20&offset={offset}&sortOrder=-1&sortField=released&isGamePageRequest=true&platforms=steam'
+    return url
+
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ2Z2luc2lnaHRzLmNvbSIsInZnaVZlcnNpb24iOjEuMzEsInRpbWUiOjE3NDI2NDI5NTM4MjMsInByb2ZpbGUiOnsiaWQiOiIxMDcwOTc4OTM3MDAwMjU4MDA0NDIiLCJlbWFpbCI6InNpcml1c2JsYWM3QGdtYWlsLmNvbSJ9LCJhY2Nlc3MiOnsibGV2ZWwiOjEwfSwibWV0YSI6eyJoYXNBY3RpdmVTdHJpcGVTdWIiOmZhbHNlLCJoYXNBY3RpdmVQYXRyZW9uU3ViIjpmYWxzZSwiaXNGcmVlVHJpYWxBbGxvd2VkIjp0cnVlLCJpc1VzZXJPbkZyZWVUcmlhbCI6ZmFsc2V9LCJpYXQiOjE3NDI2NDI5NTMsImV4cCI6MTc0NjI3MTc1M30.fyuzrv3dnj8x6nsbBTANH-MO2Jsd0KowaKI3yvBkQjM',
+    "Sec-Fetch-User": "?1",
+    "Connection": "keep-alive",
+    "Cookie": 'g_state={"i_l":0}'
+}
+
+
+all_games_data = []
+offset = 0
+limit = 500
+
+# Перебор пагинации с шагом 20
+while offset < limit:
+    url = request_api(offset)
+    response = requests.get(url, headers=headers)
     
-# Parse the HTML content using Beautiful Soup
-soup = BeautifulSoup(html_content, 'html.parser')
+    if response.status_code != 200:
+        print(f"Ошибка: {response.status_code} на offset={offset}")
+        break
+
+    games_data = response.json().get("rows", [])
     
-# Print formatted HTML content
-# print(soup.prettify())
+    if not games_data:
+        print(f"Достигнут конец данных на offset={offset}")
+        break
+
+    # Фильтруем инди-игры
+    filtered_games = [
+        game for game in games_data
+        if "Indie" not in game.get("genres", "") and game.get("publishers_type", "").lower() != "indie"
+    ]
+
+    all_games_data.extend(filtered_games)
+    print(f"Обработано {len(filtered_games)} записей на offset={offset}")
+
+    offset += 20
+    
+df = pd.DataFrame(all_games_data)
+
+df.to_csv('games_data.csv', index=False, encoding='utf-8')
+
+print(f"Данные успешно записаны в games_data.csv. Всего записей: {len(all_games_data)}")

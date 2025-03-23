@@ -1,0 +1,475 @@
+name,released,steam_id,price,units_sold_vgi,reviews,followers,rating,genres,developers,publishers,publishers_type,revenue_vgi,tags,platforms,genre,Platform,tag
+Split Fiction,2025-03-06,2001120.0,49.99,2700000.0,49902.0,124000.0,98.01,"Action, Adventure",Hazelight Studios,Electronic Arts,AAA,109600000.0,"['Action', 'Adventure', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Split Screen', 'Online Co-Op', 'Local Co-Op', 'Co-op Campaign', 'Female Protagonist', 'Fantasy', 'Sci-fi']","PC, PlayStation, Xbox",Action,PC,weapon
+Split Fiction,2025-03-06,2001120.0,49.99,2700000.0,49902.0,124000.0,98.01,"Action, Adventure",Hazelight Studios,Electronic Arts,AAA,109600000.0,"['Action', 'Adventure', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Split Screen', 'Online Co-Op', 'Local Co-Op', 'Co-op Campaign', 'Female Protagonist', 'Fantasy', 'Sci-fi']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Split Fiction,2025-03-06,2001120.0,49.99,2700000.0,49902.0,124000.0,98.01,"Action, Adventure",Hazelight Studios,Electronic Arts,AAA,109600000.0,"['Action', 'Adventure', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Split Screen', 'Online Co-Op', 'Local Co-Op', 'Co-op Campaign', 'Female Protagonist', 'Fantasy', 'Sci-fi']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Like a Dragon Pirate Yakuza in Hawaii,2025-02-20,3061810.0,59.99,167000.0,5569.0,30816.0,91.65,"Action, Adventure, RPG",Ryu Ga Gotoku Studio,SEGA,AAA,8000000.0,"['Action', 'Adventure', 'RPG', 'Action-Adventure', 'Drama', 'Action RPG', 'Pirates', 'Naval Combat', 'Naval', 'Sailing', 'Character Customization', 'Hack and Slash', 'Third-Person', 'Cinematic', 'Swordplay', '3D', 'Exploration', 'JRPG', 'Fantasy', 'Funny']","PC, PlayStation, Xbox",Action,PC,weapon
+Like a Dragon Pirate Yakuza in Hawaii,2025-02-20,3061810.0,59.99,167000.0,5569.0,30816.0,91.65,"Action, Adventure, RPG",Ryu Ga Gotoku Studio,SEGA,AAA,8000000.0,"['Action', 'Adventure', 'RPG', 'Action-Adventure', 'Drama', 'Action RPG', 'Pirates', 'Naval Combat', 'Naval', 'Sailing', 'Character Customization', 'Hack and Slash', 'Third-Person', 'Cinematic', 'Swordplay', '3D', 'Exploration', 'JRPG', 'Fantasy', 'Funny']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Like a Dragon Pirate Yakuza in Hawaii,2025-02-20,3061810.0,59.99,167000.0,5569.0,30816.0,91.65,"Action, Adventure, RPG",Ryu Ga Gotoku Studio,SEGA,AAA,8000000.0,"['Action', 'Adventure', 'RPG', 'Action-Adventure', 'Drama', 'Action RPG', 'Pirates', 'Naval Combat', 'Naval', 'Sailing', 'Character Customization', 'Hack and Slash', 'Third-Person', 'Cinematic', 'Swordplay', '3D', 'Exploration', 'JRPG', 'Fantasy', 'Funny']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Tomb Raider IVVI Remastered,2025-02-14,2525380.0,29.99,26130.0,871.0,10990.0,87.141,"Action, Adventure","Aspyr, Crystal Dynamics",Aspyr,AA,627000.0,"['Action', 'Adventure', 'Old School', 'Action-Adventure', 'Drama', 'Stylized', 'Puzzle Platformer', 'Mystery', 'Dark', 'Third-Person Shooter', 'Third-Person', 'Parkour', '3D Platformer', 'Precision Platformer', '3D', 'Platformer', 'Puzzle', 'Exploration', 'Retro', 'Atmospheric']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+Tomb Raider IVVI Remastered,2025-02-14,2525380.0,29.99,26130.0,871.0,10990.0,87.141,"Action, Adventure","Aspyr, Crystal Dynamics",Aspyr,AA,627000.0,"['Action', 'Adventure', 'Old School', 'Action-Adventure', 'Drama', 'Stylized', 'Puzzle Platformer', 'Mystery', 'Dark', 'Third-Person Shooter', 'Third-Person', 'Parkour', '3D Platformer', 'Precision Platformer', '3D', 'Platformer', 'Puzzle', 'Exploration', 'Retro', 'Atmospheric']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+Tomb Raider IVVI Remastered,2025-02-14,2525380.0,29.99,26130.0,871.0,10990.0,87.141,"Action, Adventure","Aspyr, Crystal Dynamics",Aspyr,AA,627000.0,"['Action', 'Adventure', 'Old School', 'Action-Adventure', 'Drama', 'Stylized', 'Puzzle Platformer', 'Mystery', 'Dark', 'Third-Person Shooter', 'Third-Person', 'Parkour', '3D Platformer', 'Precision Platformer', '3D', 'Platformer', 'Puzzle', 'Exploration', 'Retro', 'Atmospheric']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+Tomb Raider IVVI Remastered,2025-02-14,2525380.0,29.99,26130.0,871.0,10990.0,87.141,"Action, Adventure","Aspyr, Crystal Dynamics",Aspyr,AA,627000.0,"['Action', 'Adventure', 'Old School', 'Action-Adventure', 'Drama', 'Stylized', 'Puzzle Platformer', 'Mystery', 'Dark', 'Third-Person Shooter', 'Third-Person', 'Parkour', '3D Platformer', 'Precision Platformer', '3D', 'Platformer', 'Puzzle', 'Exploration', 'Retro', 'Atmospheric']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+WARRIORS Abyss,2025-02-12,3178350.0,24.99,28020.0,934.0,7615.0,85.867,"Action, RPG","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,558000.0,"['Action', 'Singleplayer', 'RPG', 'Action RPG', 'Dark Fantasy', 'Historical', 'Hack and Slash', 'Third-Person', 'Action Roguelike', 'Martial Arts', '3D', 'Top-Down', 'Roguelike', 'Roguelite', 'Musou']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+WARRIORS Abyss,2025-02-12,3178350.0,24.99,28020.0,934.0,7615.0,85.867,"Action, RPG","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,558000.0,"['Action', 'Singleplayer', 'RPG', 'Action RPG', 'Dark Fantasy', 'Historical', 'Hack and Slash', 'Third-Person', 'Action Roguelike', 'Martial Arts', '3D', 'Top-Down', 'Roguelike', 'Roguelite', 'Musou']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+WARRIORS Abyss,2025-02-12,3178350.0,24.99,28020.0,934.0,7615.0,85.867,"Action, RPG","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,558000.0,"['Action', 'Singleplayer', 'RPG', 'Action RPG', 'Dark Fantasy', 'Historical', 'Hack and Slash', 'Third-Person', 'Action Roguelike', 'Martial Arts', '3D', 'Top-Down', 'Roguelike', 'Roguelite', 'Musou']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+WARRIORS Abyss,2025-02-12,3178350.0,24.99,28020.0,934.0,7615.0,85.867,"Action, RPG","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,558000.0,"['Action', 'Singleplayer', 'RPG', 'Action RPG', 'Dark Fantasy', 'Historical', 'Hack and Slash', 'Third-Person', 'Action Roguelike', 'Martial Arts', '3D', 'Top-Down', 'Roguelike', 'Roguelite', 'Musou']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+Marvels SpiderMan 2,2025-01-30,2651280.0,59.99,476000.0,15859.0,60019.0,73.252,"Action, Adventure","Insomniac Games, Nixxes software",PlayStation Publishing LLC,AAA,22800000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Controller', 'Action-Adventure', ""Beat 'em up"", 'LGBTQ+', 'Third-Person', 'Political', 'Comic Book', 'Politics', 'Superhero', 'Stealth', 'Exploration', 'Open World', 'Story Rich', 'Atmospheric', 'Great Soundtrack']","PC, PlayStation",Action,PC,weapon
+Marvels SpiderMan 2,2025-01-30,2651280.0,59.99,476000.0,15859.0,60019.0,73.252,"Action, Adventure","Insomniac Games, Nixxes software",PlayStation Publishing LLC,AAA,22800000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Controller', 'Action-Adventure', ""Beat 'em up"", 'LGBTQ+', 'Third-Person', 'Political', 'Comic Book', 'Politics', 'Superhero', 'Stealth', 'Exploration', 'Open World', 'Story Rich', 'Atmospheric', 'Great Soundtrack']","PC, PlayStation",Action,PlayStation,weapon
+Sniper Elite Resistance,2025-01-30,2169200.0,49.99,82200.0,2740.0,20550.0,69.015,"Action, Adventure",Rebellion,Rebellion,AA,3300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Gore', 'Third-Person Shooter', 'War', 'Third-Person', 'World War II', 'Sniper', 'Stealth', 'Violent']","PC, PlayStation, Xbox",Action,PC,weapon
+Sniper Elite Resistance,2025-01-30,2169200.0,49.99,82200.0,2740.0,20550.0,69.015,"Action, Adventure",Rebellion,Rebellion,AA,3300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Gore', 'Third-Person Shooter', 'War', 'Third-Person', 'World War II', 'Sniper', 'Stealth', 'Violent']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Sniper Elite Resistance,2025-01-30,2169200.0,49.99,82200.0,2740.0,20550.0,69.015,"Action, Adventure",Rebellion,Rebellion,AA,3300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Gore', 'Third-Person Shooter', 'War', 'Third-Person', 'World War II', 'Sniper', 'Stealth', 'Violent']","PC, PlayStation, Xbox",Action,Xbox,weapon
+NINJA GAIDEN 2 Black,2025-01-23,3287520.0,49.99,69030.0,2301.0,20180.0,79.4,"Action, Adventure","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,2700000.0,"['Action', 'Adventure', 'Singleplayer', 'Ninja', 'Action-Adventure', 'Gore', 'Character Action Game', 'Hack and Slash', 'Third-Person', 'Swordplay', 'Spectacle fighter', 'Martial Arts', 'Combat', 'Difficult', 'Violent', 'Realistic', 'Sexual Content']","PC, PlayStation, Xbox",Action,PC,weapon
+NINJA GAIDEN 2 Black,2025-01-23,3287520.0,49.99,69030.0,2301.0,20180.0,79.4,"Action, Adventure","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,2700000.0,"['Action', 'Adventure', 'Singleplayer', 'Ninja', 'Action-Adventure', 'Gore', 'Character Action Game', 'Hack and Slash', 'Third-Person', 'Swordplay', 'Spectacle fighter', 'Martial Arts', 'Combat', 'Difficult', 'Violent', 'Realistic', 'Sexual Content']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+NINJA GAIDEN 2 Black,2025-01-23,3287520.0,49.99,69030.0,2301.0,20180.0,79.4,"Action, Adventure","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,2700000.0,"['Action', 'Adventure', 'Singleplayer', 'Ninja', 'Action-Adventure', 'Gore', 'Character Action Game', 'Hack and Slash', 'Third-Person', 'Swordplay', 'Spectacle fighter', 'Martial Arts', 'Combat', 'Difficult', 'Violent', 'Realistic', 'Sexual Content']","PC, PlayStation, Xbox",Action,Xbox,weapon
+SYNDUALITY Echo of Ada,2025-01-23,1245480.0,39.99,69930.0,2331.0,26951.0,37.237,Action,Game Studio Inc.,Bandai Namco,AAA,2200000.0,"['Action', 'Multiplayer', 'Action-Adventure', 'Mechs', 'Third-Person Shooter', 'Character Customization', 'PvE', 'Dating Sim', 'Tactical', 'Looter Shooter', '3D', 'Female Protagonist', 'Survival', 'Shooter', 'Exploration', 'Sci-fi', 'Anime', 'Cute', 'PvP', 'Extraction Shooter']","PC, PlayStation, Xbox",Action,PC,weapon
+SYNDUALITY Echo of Ada,2025-01-23,1245480.0,39.99,69930.0,2331.0,26951.0,37.237,Action,Game Studio Inc.,Bandai Namco,AAA,2200000.0,"['Action', 'Multiplayer', 'Action-Adventure', 'Mechs', 'Third-Person Shooter', 'Character Customization', 'PvE', 'Dating Sim', 'Tactical', 'Looter Shooter', '3D', 'Female Protagonist', 'Survival', 'Shooter', 'Exploration', 'Sci-fi', 'Anime', 'Cute', 'PvP', 'Extraction Shooter']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+SYNDUALITY Echo of Ada,2025-01-23,1245480.0,39.99,69930.0,2331.0,26951.0,37.237,Action,Game Studio Inc.,Bandai Namco,AAA,2200000.0,"['Action', 'Multiplayer', 'Action-Adventure', 'Mechs', 'Third-Person Shooter', 'Character Customization', 'PvE', 'Dating Sim', 'Tactical', 'Looter Shooter', '3D', 'Female Protagonist', 'Survival', 'Shooter', 'Exploration', 'Sci-fi', 'Anime', 'Cute', 'PvP', 'Extraction Shooter']","PC, PlayStation, Xbox",Action,Xbox,weapon
+STAR WARS Episode I Jedi Power Battles,2025-01-23,2443630.0,19.99,7380.0,246.0,3847.0,77.642,"Action, Adventure, Casual",Aspyr,Aspyr,AA,116000.0,"['Action', 'Adventure', 'Old School', 'Singleplayer', 'Casual', 'Side Scroller', 'Controller', 'Action-Adventure', ""Beat 'em up"", 'Co-op', 'PvE', 'Hack and Slash', 'Third-Person', 'Combat', '3D', 'Arcade', 'Space', 'Sci-fi', 'Retro', 'Colorful']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+STAR WARS Episode I Jedi Power Battles,2025-01-23,2443630.0,19.99,7380.0,246.0,3847.0,77.642,"Action, Adventure, Casual",Aspyr,Aspyr,AA,116000.0,"['Action', 'Adventure', 'Old School', 'Singleplayer', 'Casual', 'Side Scroller', 'Controller', 'Action-Adventure', ""Beat 'em up"", 'Co-op', 'PvE', 'Hack and Slash', 'Third-Person', 'Combat', '3D', 'Arcade', 'Space', 'Sci-fi', 'Retro', 'Colorful']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+STAR WARS Episode I Jedi Power Battles,2025-01-23,2443630.0,19.99,7380.0,246.0,3847.0,77.642,"Action, Adventure, Casual",Aspyr,Aspyr,AA,116000.0,"['Action', 'Adventure', 'Old School', 'Singleplayer', 'Casual', 'Side Scroller', 'Controller', 'Action-Adventure', ""Beat 'em up"", 'Co-op', 'PvE', 'Hack and Slash', 'Third-Person', 'Combat', '3D', 'Arcade', 'Space', 'Sci-fi', 'Retro', 'Colorful']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+STAR WARS Episode I Jedi Power Battles,2025-01-23,2443630.0,19.99,7380.0,246.0,3847.0,77.642,"Action, Adventure, Casual",Aspyr,Aspyr,AA,116000.0,"['Action', 'Adventure', 'Old School', 'Singleplayer', 'Casual', 'Side Scroller', 'Controller', 'Action-Adventure', ""Beat 'em up"", 'Co-op', 'PvE', 'Hack and Slash', 'Third-Person', 'Combat', '3D', 'Arcade', 'Space', 'Sci-fi', 'Retro', 'Colorful']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+DYNASTY WARRIORS ORIGINS,2025-01-17,2384580.0,69.99,686000.0,18292.0,74538.0,93.658,"Action, Strategy, RPG","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,38200000.0,"['Strategy', 'Action', 'Singleplayer', 'RPG', 'Controller', 'Action RPG', 'War', 'Historical', 'Hack and Slash', 'Third-Person', 'Dating Sim', 'Wargame', 'Tactical', 'Swordplay', 'Spectacle fighter', 'Martial Arts', '3D', 'Story Rich', 'Multiple Endings', 'Musou']","PC, PlayStation, Xbox",Action,PC,weapon
+DYNASTY WARRIORS ORIGINS,2025-01-17,2384580.0,69.99,686000.0,18292.0,74538.0,93.658,"Action, Strategy, RPG","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,38200000.0,"['Strategy', 'Action', 'Singleplayer', 'RPG', 'Controller', 'Action RPG', 'War', 'Historical', 'Hack and Slash', 'Third-Person', 'Dating Sim', 'Wargame', 'Tactical', 'Swordplay', 'Spectacle fighter', 'Martial Arts', '3D', 'Story Rich', 'Multiple Endings', 'Musou']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+DYNASTY WARRIORS ORIGINS,2025-01-17,2384580.0,69.99,686000.0,18292.0,74538.0,93.658,"Action, Strategy, RPG","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",AAA,38200000.0,"['Strategy', 'Action', 'Singleplayer', 'RPG', 'Controller', 'Action RPG', 'War', 'Historical', 'Hack and Slash', 'Third-Person', 'Dating Sim', 'Wargame', 'Tactical', 'Swordplay', 'Spectacle fighter', 'Martial Arts', '3D', 'Story Rich', 'Multiple Endings', 'Musou']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Legacy of Kain Soul Reaver 12 Remastered,2024-12-10,2521380.0,29.99,74970.0,2499.0,22092.0,90.676,"Action, Adventure","Aspyr, Crystal Dynamics",Aspyr,AA,1800000.0,"['Action', 'Adventure', 'Old School', 'Action-Adventure', 'Drama', 'Puzzle Platformer', 'Demons', 'Dark', 'Dark Fantasy', 'Hack and Slash', 'Third-Person', 'Magic', '3D Platformer', 'Combat', '3D', 'Platformer', 'Puzzle', 'Fantasy', 'Retro', 'Atmospheric']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+Legacy of Kain Soul Reaver 12 Remastered,2024-12-10,2521380.0,29.99,74970.0,2499.0,22092.0,90.676,"Action, Adventure","Aspyr, Crystal Dynamics",Aspyr,AA,1800000.0,"['Action', 'Adventure', 'Old School', 'Action-Adventure', 'Drama', 'Puzzle Platformer', 'Demons', 'Dark', 'Dark Fantasy', 'Hack and Slash', 'Third-Person', 'Magic', '3D Platformer', 'Combat', '3D', 'Platformer', 'Puzzle', 'Fantasy', 'Retro', 'Atmospheric']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+Legacy of Kain Soul Reaver 12 Remastered,2024-12-10,2521380.0,29.99,74970.0,2499.0,22092.0,90.676,"Action, Adventure","Aspyr, Crystal Dynamics",Aspyr,AA,1800000.0,"['Action', 'Adventure', 'Old School', 'Action-Adventure', 'Drama', 'Puzzle Platformer', 'Demons', 'Dark', 'Dark Fantasy', 'Hack and Slash', 'Third-Person', 'Magic', '3D Platformer', 'Combat', '3D', 'Platformer', 'Puzzle', 'Fantasy', 'Retro', 'Atmospheric']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+Legacy of Kain Soul Reaver 12 Remastered,2024-12-10,2521380.0,29.99,74970.0,2499.0,22092.0,90.676,"Action, Adventure","Aspyr, Crystal Dynamics",Aspyr,AA,1800000.0,"['Action', 'Adventure', 'Old School', 'Action-Adventure', 'Drama', 'Puzzle Platformer', 'Demons', 'Dark', 'Dark Fantasy', 'Hack and Slash', 'Third-Person', 'Magic', '3D Platformer', 'Combat', '3D', 'Platformer', 'Puzzle', 'Fantasy', 'Retro', 'Atmospheric']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+Indiana Jones and the Great Circle,2024-12-09,2677660.0,69.99,385000.0,12822.0,90691.0,90.906,"Action, Adventure",Machine Games,Bethesda Softworks,AAA,21400000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Immersive Sim', 'First-Person', 'Historical', 'Investigation', 'World War II', 'Political', '3D Platformer', 'Politics', '3D', 'Platformer', 'Puzzle', 'Stealth', 'Exploration', 'Open World', 'Story Rich', 'Realistic']","PC, PlayStation, Xbox",Action,PC,weapon
+Indiana Jones and the Great Circle,2024-12-09,2677660.0,69.99,385000.0,12822.0,90691.0,90.906,"Action, Adventure",Machine Games,Bethesda Softworks,AAA,21400000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Immersive Sim', 'First-Person', 'Historical', 'Investigation', 'World War II', 'Political', '3D Platformer', 'Politics', '3D', 'Platformer', 'Puzzle', 'Stealth', 'Exploration', 'Open World', 'Story Rich', 'Realistic']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Indiana Jones and the Great Circle,2024-12-09,2677660.0,69.99,385000.0,12822.0,90691.0,90.906,"Action, Adventure",Machine Games,Bethesda Softworks,AAA,21400000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Immersive Sim', 'First-Person', 'Historical', 'Investigation', 'World War II', 'Political', '3D Platformer', 'Politics', '3D', 'Platformer', 'Puzzle', 'Stealth', 'Exploration', 'Open World', 'Story Rich', 'Realistic']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Star Wars Outlaws,2024-11-21,2842040.0,69.99,108000.0,3598.0,31742.0,73.541,"Action, Adventure",Ubisoft,Ubisoft,AAA,4500000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Choices Matter', 'Action-Adventure', 'Third-Person Shooter', 'Third-Person', 'Minigames', 'Parkour', 'Soundtrack', 'Heist', 'Female Protagonist', 'Shooter', 'Exploration', 'Open World', 'Story Rich', 'Space', 'Sci-fi', 'Atmospheric']","PC, PlayStation, Xbox",Action,PC,weapon
+Star Wars Outlaws,2024-11-21,2842040.0,69.99,108000.0,3598.0,31742.0,73.541,"Action, Adventure",Ubisoft,Ubisoft,AAA,4500000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Choices Matter', 'Action-Adventure', 'Third-Person Shooter', 'Third-Person', 'Minigames', 'Parkour', 'Soundtrack', 'Heist', 'Female Protagonist', 'Shooter', 'Exploration', 'Open World', 'Story Rich', 'Space', 'Sci-fi', 'Atmospheric']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Star Wars Outlaws,2024-11-21,2842040.0,69.99,108000.0,3598.0,31742.0,73.541,"Action, Adventure",Ubisoft,Ubisoft,AAA,4500000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Choices Matter', 'Action-Adventure', 'Third-Person Shooter', 'Third-Person', 'Minigames', 'Parkour', 'Soundtrack', 'Heist', 'Female Protagonist', 'Shooter', 'Exploration', 'Open World', 'Story Rich', 'Space', 'Sci-fi', 'Atmospheric']","PC, PlayStation, Xbox",Action,Xbox,weapon
+LEGO Horizon Adventures,2024-11-14,2428810.0,59.99,12000.0,400.0,8273.0,60.25,"Action, Adventure","Guerrilla Games, Studio Gobo",PlayStation Publishing LLC,AAA,554000.0,"['Action', 'Adventure', 'Singleplayer', 'Robots', 'Action-Adventure', 'Co-op', 'Online Co-Op', 'Character Customization', 'Crafting', 'Third-Person', '3D Platformer', 'Local Co-Op', 'Co-op Campaign', 'Precision Platformer', 'Combat', 'LEGO', '3D', 'Female Protagonist', 'Comedy', 'Funny']","PC, PlayStation, Nintendo",Action,PC,weapon
+LEGO Horizon Adventures,2024-11-14,2428810.0,59.99,12000.0,400.0,8273.0,60.25,"Action, Adventure","Guerrilla Games, Studio Gobo",PlayStation Publishing LLC,AAA,554000.0,"['Action', 'Adventure', 'Singleplayer', 'Robots', 'Action-Adventure', 'Co-op', 'Online Co-Op', 'Character Customization', 'Crafting', 'Third-Person', '3D Platformer', 'Local Co-Op', 'Co-op Campaign', 'Precision Platformer', 'Combat', 'LEGO', '3D', 'Female Protagonist', 'Comedy', 'Funny']","PC, PlayStation, Nintendo",Action,PlayStation,weapon
+LEGO Horizon Adventures,2024-11-14,2428810.0,59.99,12000.0,400.0,8273.0,60.25,"Action, Adventure","Guerrilla Games, Studio Gobo",PlayStation Publishing LLC,AAA,554000.0,"['Action', 'Adventure', 'Singleplayer', 'Robots', 'Action-Adventure', 'Co-op', 'Online Co-Op', 'Character Customization', 'Crafting', 'Third-Person', '3D Platformer', 'Local Co-Op', 'Co-op Campaign', 'Precision Platformer', 'Combat', 'LEGO', '3D', 'Female Protagonist', 'Comedy', 'Funny']","PC, PlayStation, Nintendo",Action,Nintendo,weapon
+Horizon Zero Dawn Remastered,2024-10-31,2561580.0,49.99,88860.0,2962.0,10572.0,79.541,"Action, Adventure, RPG","Guerrilla Games, Nixxes software",PlayStation Publishing LLC,AAA,3500000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Nature', 'Action-Adventure', 'Mechs', 'LGBTQ+', 'Artificial Intelligence', 'Crafting', 'Third-Person', 'Futuristic', 'Post-apocalyptic', 'Emotional', 'Combat', 'Female Protagonist', 'Stealth', 'Open World', 'Story Rich', 'Sci-fi']","PC, PlayStation",Action,PC,weapon
+Horizon Zero Dawn Remastered,2024-10-31,2561580.0,49.99,88860.0,2962.0,10572.0,79.541,"Action, Adventure, RPG","Guerrilla Games, Nixxes software",PlayStation Publishing LLC,AAA,3500000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Nature', 'Action-Adventure', 'Mechs', 'LGBTQ+', 'Artificial Intelligence', 'Crafting', 'Third-Person', 'Futuristic', 'Post-apocalyptic', 'Emotional', 'Combat', 'Female Protagonist', 'Stealth', 'Open World', 'Story Rich', 'Sci-fi']","PC, PlayStation",Action,PlayStation,weapon
+REDACTED,2024-10-28,2229940.0,24.99,8280.0,275.0,3580.0,86.545,Action,Striking Distance Studios,"KRAFTON, Inc.",AA,157000.0,"['Action', 'Top-Down Shooter', 'Controller', 'Action-Adventure', 'Dark Humor', 'Stylized', 'Dungeon Crawler', 'Hack and Slash', 'Action Roguelike', 'Comic Book', 'Dark Comedy', 'Isometric', '3D', 'Survival', 'Roguelike', 'Shooter', 'Roguelite', 'Comedy', 'Sci-fi', 'Difficult']","PC, PlayStation, Xbox",Action,PC,weapon
+REDACTED,2024-10-28,2229940.0,24.99,8280.0,275.0,3580.0,86.545,Action,Striking Distance Studios,"KRAFTON, Inc.",AA,157000.0,"['Action', 'Top-Down Shooter', 'Controller', 'Action-Adventure', 'Dark Humor', 'Stylized', 'Dungeon Crawler', 'Hack and Slash', 'Action Roguelike', 'Comic Book', 'Dark Comedy', 'Isometric', '3D', 'Survival', 'Roguelike', 'Shooter', 'Roguelite', 'Comedy', 'Sci-fi', 'Difficult']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+REDACTED,2024-10-28,2229940.0,24.99,8280.0,275.0,3580.0,86.545,Action,Striking Distance Studios,"KRAFTON, Inc.",AA,157000.0,"['Action', 'Top-Down Shooter', 'Controller', 'Action-Adventure', 'Dark Humor', 'Stylized', 'Dungeon Crawler', 'Hack and Slash', 'Action Roguelike', 'Comic Book', 'Dark Comedy', 'Isometric', '3D', 'Survival', 'Roguelike', 'Shooter', 'Roguelite', 'Comedy', 'Sci-fi', 'Difficult']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Assassins Creed Mirage,2024-10-17,3035570.0,49.99,195000.0,6487.0,27220.0,75.027,"Action, Adventure",Ubisoft,Ubisoft,AAA,5300000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Assassin', 'Action-Adventure', 'Action RPG', 'Historical', 'Third-Person', 'Parkour', 'Stealth', 'Open World', 'Story Rich', 'Atmospheric', 'Violent']","PC, PlayStation, Xbox, Mobile",Action,PC,weapon
+Assassins Creed Mirage,2024-10-17,3035570.0,49.99,195000.0,6487.0,27220.0,75.027,"Action, Adventure",Ubisoft,Ubisoft,AAA,5300000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Assassin', 'Action-Adventure', 'Action RPG', 'Historical', 'Third-Person', 'Parkour', 'Stealth', 'Open World', 'Story Rich', 'Atmospheric', 'Violent']","PC, PlayStation, Xbox, Mobile",Action,PlayStation,weapon
+Assassins Creed Mirage,2024-10-17,3035570.0,49.99,195000.0,6487.0,27220.0,75.027,"Action, Adventure",Ubisoft,Ubisoft,AAA,5300000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Assassin', 'Action-Adventure', 'Action RPG', 'Historical', 'Third-Person', 'Parkour', 'Stealth', 'Open World', 'Story Rich', 'Atmospheric', 'Violent']","PC, PlayStation, Xbox, Mobile",Action,Xbox,weapon
+Assassins Creed Mirage,2024-10-17,3035570.0,49.99,195000.0,6487.0,27220.0,75.027,"Action, Adventure",Ubisoft,Ubisoft,AAA,5300000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Assassin', 'Action-Adventure', 'Action RPG', 'Historical', 'Third-Person', 'Parkour', 'Stealth', 'Open World', 'Story Rich', 'Atmospheric', 'Violent']","PC, PlayStation, Xbox, Mobile",Action,Mobile,weapon
+Unknown 9 Awakening,2024-10-17,1477940.0,49.99,21270.0,709.0,8992.0,32.44,"Action, Adventure",Reflector Entertainment Ltd.,Bandai Namco,AAA,800000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Psychological Horror', 'Mystery', 'Third-Person', 'Cinematic', 'Emotional', 'Alternate History', 'Narration', 'Lore-Rich', 'Politics', 'Combat', '3D', 'Female Protagonist', 'Stealth', 'Linear', 'Story Rich', 'Realistic']","PC, PlayStation, Xbox",Action,PC,weapon
+Unknown 9 Awakening,2024-10-17,1477940.0,49.99,21270.0,709.0,8992.0,32.44,"Action, Adventure",Reflector Entertainment Ltd.,Bandai Namco,AAA,800000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Psychological Horror', 'Mystery', 'Third-Person', 'Cinematic', 'Emotional', 'Alternate History', 'Narration', 'Lore-Rich', 'Politics', 'Combat', '3D', 'Female Protagonist', 'Stealth', 'Linear', 'Story Rich', 'Realistic']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Unknown 9 Awakening,2024-10-17,1477940.0,49.99,21270.0,709.0,8992.0,32.44,"Action, Adventure",Reflector Entertainment Ltd.,Bandai Namco,AAA,800000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Psychological Horror', 'Mystery', 'Third-Person', 'Cinematic', 'Emotional', 'Alternate History', 'Narration', 'Lore-Rich', 'Politics', 'Combat', '3D', 'Female Protagonist', 'Stealth', 'Linear', 'Story Rich', 'Realistic']","PC, PlayStation, Xbox",Action,Xbox,weapon
+SILENT HILL 2,2024-10-08,2124490.0,69.99,795000.0,40334.0,116000.0,95.309,"Action, Adventure",Bloober Team SA,KONAMI,AA,42800000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Classic', 'Psychological Horror', 'Third-Person', 'Survival Horror', 'Remake', 'Cinematic', 'Psychological', '3D', 'Exploration', 'Story Rich', 'Atmospheric', 'Great Soundtrack', 'Violent', 'Horror', 'Multiple Endings', 'Sexual Content']","PC, PlayStation",Action,PC,weapon
+SILENT HILL 2,2024-10-08,2124490.0,69.99,795000.0,40334.0,116000.0,95.309,"Action, Adventure",Bloober Team SA,KONAMI,AA,42800000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Classic', 'Psychological Horror', 'Third-Person', 'Survival Horror', 'Remake', 'Cinematic', 'Psychological', '3D', 'Exploration', 'Story Rich', 'Atmospheric', 'Great Soundtrack', 'Violent', 'Horror', 'Multiple Endings', 'Sexual Content']","PC, PlayStation",Action,PlayStation,weapon
+Disney Epic Mickey Rebrushed,2024-09-24,1522160.0,59.99,32370.0,1079.0,15307.0,94.161,"Action, Adventure",Purple Lamp,THQ Nordic,AA,1400000.0,"['Singleplayer', 'Choose Your Own Adventure', 'Side Scroller', 'Choices Matter', 'Action-Adventure', 'Puzzle Platformer', 'Cartoon', 'Third-Person', 'Magic', 'Remake', '3D Platformer', 'Lore-Rich', 'Platformer', 'Puzzle', 'Exploration', 'Story Rich', 'Funny', 'Cute', 'Family Friendly', 'Multiple Endings']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+Disney Epic Mickey Rebrushed,2024-09-24,1522160.0,59.99,32370.0,1079.0,15307.0,94.161,"Action, Adventure",Purple Lamp,THQ Nordic,AA,1400000.0,"['Singleplayer', 'Choose Your Own Adventure', 'Side Scroller', 'Choices Matter', 'Action-Adventure', 'Puzzle Platformer', 'Cartoon', 'Third-Person', 'Magic', 'Remake', '3D Platformer', 'Lore-Rich', 'Platformer', 'Puzzle', 'Exploration', 'Story Rich', 'Funny', 'Cute', 'Family Friendly', 'Multiple Endings']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+Disney Epic Mickey Rebrushed,2024-09-24,1522160.0,59.99,32370.0,1079.0,15307.0,94.161,"Action, Adventure",Purple Lamp,THQ Nordic,AA,1400000.0,"['Singleplayer', 'Choose Your Own Adventure', 'Side Scroller', 'Choices Matter', 'Action-Adventure', 'Puzzle Platformer', 'Cartoon', 'Third-Person', 'Magic', 'Remake', '3D Platformer', 'Lore-Rich', 'Platformer', 'Puzzle', 'Exploration', 'Story Rich', 'Funny', 'Cute', 'Family Friendly', 'Multiple Endings']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+Disney Epic Mickey Rebrushed,2024-09-24,1522160.0,59.99,32370.0,1079.0,15307.0,94.161,"Action, Adventure",Purple Lamp,THQ Nordic,AA,1400000.0,"['Singleplayer', 'Choose Your Own Adventure', 'Side Scroller', 'Choices Matter', 'Action-Adventure', 'Puzzle Platformer', 'Cartoon', 'Third-Person', 'Magic', 'Remake', '3D Platformer', 'Lore-Rich', 'Platformer', 'Puzzle', 'Exploration', 'Story Rich', 'Funny', 'Cute', 'Family Friendly', 'Multiple Endings']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+Dead Rising Deluxe Remaster,2024-09-19,2527390.0,49.99,101000.0,3364.0,20059.0,81.718,"Action, Adventure",Capcom,Capcom,AAA,4000000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Gore', 'Dark', 'LGBTQ+', 'Time Management', 'Third-Person', 'Zombies', 'Cinematic', 'Dark Comedy', 'Spectacle fighter', 'Survival', 'Sandbox', 'Sci-fi', 'Funny', 'Cute', 'Horror', 'Multiple Endings']","PC, PlayStation, Xbox",Action,PC,weapon
+Dead Rising Deluxe Remaster,2024-09-19,2527390.0,49.99,101000.0,3364.0,20059.0,81.718,"Action, Adventure",Capcom,Capcom,AAA,4000000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Gore', 'Dark', 'LGBTQ+', 'Time Management', 'Third-Person', 'Zombies', 'Cinematic', 'Dark Comedy', 'Spectacle fighter', 'Survival', 'Sandbox', 'Sci-fi', 'Funny', 'Cute', 'Horror', 'Multiple Endings']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Dead Rising Deluxe Remaster,2024-09-19,2527390.0,49.99,101000.0,3364.0,20059.0,81.718,"Action, Adventure",Capcom,Capcom,AAA,4000000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Gore', 'Dark', 'LGBTQ+', 'Time Management', 'Third-Person', 'Zombies', 'Cinematic', 'Dark Comedy', 'Spectacle fighter', 'Survival', 'Sandbox', 'Sci-fi', 'Funny', 'Cute', 'Horror', 'Multiple Endings']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Warhammer 40000 Space Marine 2,2024-09-09,2183900.0,59.99,4200000.0,156000.0,293000.0,82.85,"Action, Adventure, RPG",Saber Interactive,Focus Entertainment,AA,195300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Third-Person Shooter', 'PvE', 'War', 'Third-Person', 'Cinematic', 'Wargame', 'Futuristic', 'Narration', 'Warhammer 40K', '3D', 'Fantasy', 'Space', 'Sci-fi', 'Realistic']","PC, PlayStation, Xbox",Action,PC,weapon
+Warhammer 40000 Space Marine 2,2024-09-09,2183900.0,59.99,4200000.0,156000.0,293000.0,82.85,"Action, Adventure, RPG",Saber Interactive,Focus Entertainment,AA,195300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Third-Person Shooter', 'PvE', 'War', 'Third-Person', 'Cinematic', 'Wargame', 'Futuristic', 'Narration', 'Warhammer 40K', '3D', 'Fantasy', 'Space', 'Sci-fi', 'Realistic']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Warhammer 40000 Space Marine 2,2024-09-09,2183900.0,59.99,4200000.0,156000.0,293000.0,82.85,"Action, Adventure, RPG",Saber Interactive,Focus Entertainment,AA,195300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Third-Person Shooter', 'PvE', 'War', 'Third-Person', 'Cinematic', 'Wargame', 'Futuristic', 'Narration', 'Warhammer 40K', '3D', 'Fantasy', 'Space', 'Sci-fi', 'Realistic']","PC, PlayStation, Xbox",Action,Xbox,weapon
+GUNDAM BREAKER 4,2024-08-28,1672500.0,59.99,109000.0,3645.0,26859.0,75.309,"Action, RPG","CRAFTS & MEISTER Co., Ltd.",Bandai Namco,AAA,5200000.0,"['Action', 'Singleplayer', 'RPG', 'Multiplayer', 'Robots', 'Action RPG', 'Co-op', 'Mechs', 'Character Customization', 'Hack and Slash', '3D', 'Anime']","PC, PlayStation, Nintendo",Action,PC,weapon
+GUNDAM BREAKER 4,2024-08-28,1672500.0,59.99,109000.0,3645.0,26859.0,75.309,"Action, RPG","CRAFTS & MEISTER Co., Ltd.",Bandai Namco,AAA,5200000.0,"['Action', 'Singleplayer', 'RPG', 'Multiplayer', 'Robots', 'Action RPG', 'Co-op', 'Mechs', 'Character Customization', 'Hack and Slash', '3D', 'Anime']","PC, PlayStation, Nintendo",Action,PlayStation,weapon
+GUNDAM BREAKER 4,2024-08-28,1672500.0,59.99,109000.0,3645.0,26859.0,75.309,"Action, RPG","CRAFTS & MEISTER Co., Ltd.",Bandai Namco,AAA,5200000.0,"['Action', 'Singleplayer', 'RPG', 'Multiplayer', 'Robots', 'Action RPG', 'Co-op', 'Mechs', 'Character Customization', 'Hack and Slash', '3D', 'Anime']","PC, PlayStation, Nintendo",Action,Nintendo,weapon
+Concord,2024-08-23,2443720.0,0.0,25740.0,850.0,6406.0,68.941,Action,Firewalk Studios,PlayStation Publishing LLC,AAA,718000.0,"['Action', 'Multiplayer', 'Perma Death', 'First-Person', 'Dark Fantasy', 'Zombies', 'Crime', 'Post-apocalyptic', 'Psychological', 'Team-Based', 'Parody ', 'Gambling', 'Hero Shooter', 'Heist', 'FPS', 'Shooter', 'Sci-fi', 'Funny', 'Colorful', 'PvP']","PC, PlayStation",Action,PC,weapon
+Concord,2024-08-23,2443720.0,0.0,25740.0,850.0,6406.0,68.941,Action,Firewalk Studios,PlayStation Publishing LLC,AAA,718000.0,"['Action', 'Multiplayer', 'Perma Death', 'First-Person', 'Dark Fantasy', 'Zombies', 'Crime', 'Post-apocalyptic', 'Psychological', 'Team-Based', 'Parody ', 'Gambling', 'Hero Shooter', 'Heist', 'FPS', 'Shooter', 'Sci-fi', 'Funny', 'Colorful', 'PvP']","PC, PlayStation",Action,PlayStation,weapon
+Skull and Bones,2024-08-22,2853730.0,39.99,44220.0,1474.0,12337.0,66.961,"Action, Adventure",Ubisoft,Ubisoft,AAA,1200000.0,"['Action', 'RPG', 'Multiplayer', 'Action RPG', 'Pirates', 'Co-op', 'Naval Combat', 'Naval', 'Sailing', 'First-Person', 'PvE', 'Crafting', 'Third-Person', 'Combat', '3D', 'Exploration', 'Resource Management', 'Open World', 'PvP', 'Realistic']","PC, PlayStation, Xbox",Action,PC,weapon
+Skull and Bones,2024-08-22,2853730.0,39.99,44220.0,1474.0,12337.0,66.961,"Action, Adventure",Ubisoft,Ubisoft,AAA,1200000.0,"['Action', 'RPG', 'Multiplayer', 'Action RPG', 'Pirates', 'Co-op', 'Naval Combat', 'Naval', 'Sailing', 'First-Person', 'PvE', 'Crafting', 'Third-Person', 'Combat', '3D', 'Exploration', 'Resource Management', 'Open World', 'PvP', 'Realistic']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Skull and Bones,2024-08-22,2853730.0,39.99,44220.0,1474.0,12337.0,66.961,"Action, Adventure",Ubisoft,Ubisoft,AAA,1200000.0,"['Action', 'RPG', 'Multiplayer', 'Action RPG', 'Pirates', 'Co-op', 'Naval Combat', 'Naval', 'Sailing', 'First-Person', 'PvE', 'Crafting', 'Third-Person', 'Combat', '3D', 'Exploration', 'Resource Management', 'Open World', 'PvP', 'Realistic']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Prince of Persia The Lost Crown,2024-08-08,2751000.0,39.99,101000.0,3364.0,15520.0,85.702,"Action, Adventure",Ubisoft,Ubisoft,AAA,2400000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Side Scroller', 'Controller', 'Action-Adventure', 'Stylized', 'Action RPG', 'LGBTQ+', 'Hack and Slash', '2D Platformer', 'Precision Platformer', 'Combat', 'Metroidvania', 'Exploration', 'Atmospheric', 'Great Soundtrack', 'Colorful']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+Prince of Persia The Lost Crown,2024-08-08,2751000.0,39.99,101000.0,3364.0,15520.0,85.702,"Action, Adventure",Ubisoft,Ubisoft,AAA,2400000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Side Scroller', 'Controller', 'Action-Adventure', 'Stylized', 'Action RPG', 'LGBTQ+', 'Hack and Slash', '2D Platformer', 'Precision Platformer', 'Combat', 'Metroidvania', 'Exploration', 'Atmospheric', 'Great Soundtrack', 'Colorful']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+Prince of Persia The Lost Crown,2024-08-08,2751000.0,39.99,101000.0,3364.0,15520.0,85.702,"Action, Adventure",Ubisoft,Ubisoft,AAA,2400000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Side Scroller', 'Controller', 'Action-Adventure', 'Stylized', 'Action RPG', 'LGBTQ+', 'Hack and Slash', '2D Platformer', 'Precision Platformer', 'Combat', 'Metroidvania', 'Exploration', 'Atmospheric', 'Great Soundtrack', 'Colorful']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+Prince of Persia The Lost Crown,2024-08-08,2751000.0,39.99,101000.0,3364.0,15520.0,85.702,"Action, Adventure",Ubisoft,Ubisoft,AAA,2400000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Side Scroller', 'Controller', 'Action-Adventure', 'Stylized', 'Action RPG', 'LGBTQ+', 'Hack and Slash', '2D Platformer', 'Precision Platformer', 'Combat', 'Metroidvania', 'Exploration', 'Atmospheric', 'Great Soundtrack', 'Colorful']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+STAR WARS Bounty Hunter,2024-08-01,2419090.0,19.99,27840.0,928.0,12597.0,85.776,"Action, Adventure",Aspyr,Aspyr,AA,417000.0,"['Action', 'Adventure', 'Singleplayer', 'Robots', 'Assassin', 'Action-Adventure', 'Classic', 'Third-Person Shooter', 'Third-Person', 'Remake', 'Futuristic', '3D Platformer', 'Combat', '3D', 'Platformer', 'Shooter', 'Space', 'Sci-fi']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+STAR WARS Bounty Hunter,2024-08-01,2419090.0,19.99,27840.0,928.0,12597.0,85.776,"Action, Adventure",Aspyr,Aspyr,AA,417000.0,"['Action', 'Adventure', 'Singleplayer', 'Robots', 'Assassin', 'Action-Adventure', 'Classic', 'Third-Person Shooter', 'Third-Person', 'Remake', 'Futuristic', '3D Platformer', 'Combat', '3D', 'Platformer', 'Shooter', 'Space', 'Sci-fi']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+STAR WARS Bounty Hunter,2024-08-01,2419090.0,19.99,27840.0,928.0,12597.0,85.776,"Action, Adventure",Aspyr,Aspyr,AA,417000.0,"['Action', 'Adventure', 'Singleplayer', 'Robots', 'Assassin', 'Action-Adventure', 'Classic', 'Third-Person Shooter', 'Third-Person', 'Remake', 'Futuristic', '3D Platformer', 'Combat', '3D', 'Platformer', 'Shooter', 'Space', 'Sci-fi']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+STAR WARS Bounty Hunter,2024-08-01,2419090.0,19.99,27840.0,928.0,12597.0,85.776,"Action, Adventure",Aspyr,Aspyr,AA,417000.0,"['Action', 'Adventure', 'Singleplayer', 'Robots', 'Assassin', 'Action-Adventure', 'Classic', 'Third-Person Shooter', 'Third-Person', 'Remake', 'Futuristic', '3D Platformer', 'Combat', '3D', 'Platformer', 'Shooter', 'Space', 'Sci-fi']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+KunitsuGami Path of the Goddess,2024-07-19,2510710.0,49.99,58710.0,1957.0,24147.0,92.591,"Action, Strategy",Capcom,Capcom,AAA,2300000.0,"['Strategy', 'Action', 'Singleplayer', 'Hack and Slash', 'Supernatural', 'Lore-Rich', 'Mythology', '3D', 'Tower Defense']","PC, PlayStation, Xbox",Action,PC,weapon
+KunitsuGami Path of the Goddess,2024-07-19,2510710.0,49.99,58710.0,1957.0,24147.0,92.591,"Action, Strategy",Capcom,Capcom,AAA,2300000.0,"['Strategy', 'Action', 'Singleplayer', 'Hack and Slash', 'Supernatural', 'Lore-Rich', 'Mythology', '3D', 'Tower Defense']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+KunitsuGami Path of the Goddess,2024-07-19,2510710.0,49.99,58710.0,1957.0,24147.0,92.591,"Action, Strategy",Capcom,Capcom,AAA,2300000.0,"['Strategy', 'Action', 'Singleplayer', 'Hack and Slash', 'Supernatural', 'Lore-Rich', 'Mythology', '3D', 'Tower Defense']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Crime Boss Rockay City,2024-06-18,2933080.0,19.99,179000.0,5969.0,26868.0,71.654,Action,INGAME STUDIOS,505 GAMES,AA,2300000.0,"['Action', 'Singleplayer', 'Multiplayer', 'Co-op', 'Online Co-Op', 'PvE', 'Action Roguelike', 'Crime', 'Tactical', 'Team-Based', 'America', 'Combat', 'Heist', 'Looter Shooter', '3D', 'FPS', 'Stealth', 'Shooter', 'Funny', 'Realistic']","PC, PlayStation, Xbox",Action,PC,weapon
+Crime Boss Rockay City,2024-06-18,2933080.0,19.99,179000.0,5969.0,26868.0,71.654,Action,INGAME STUDIOS,505 GAMES,AA,2300000.0,"['Action', 'Singleplayer', 'Multiplayer', 'Co-op', 'Online Co-Op', 'PvE', 'Action Roguelike', 'Crime', 'Tactical', 'Team-Based', 'America', 'Combat', 'Heist', 'Looter Shooter', '3D', 'FPS', 'Stealth', 'Shooter', 'Funny', 'Realistic']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Crime Boss Rockay City,2024-06-18,2933080.0,19.99,179000.0,5969.0,26868.0,71.654,Action,INGAME STUDIOS,505 GAMES,AA,2300000.0,"['Action', 'Singleplayer', 'Multiplayer', 'Co-op', 'Online Co-Op', 'PvE', 'Action Roguelike', 'Crime', 'Tactical', 'Team-Based', 'America', 'Combat', 'Heist', 'Looter Shooter', '3D', 'FPS', 'Stealth', 'Shooter', 'Funny', 'Realistic']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Avatar Frontiers of Pandora,2024-06-17,2840770.0,69.99,106000.0,3538.0,29118.0,68.315,"Action, Adventure",Ubisoft,Ubisoft,AAA,3900000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Multiplayer', 'Immersive Sim', 'Co-op', 'First-Person', 'Online Co-Op', 'Character Customization', '3D', 'Female Protagonist', 'Shooter', 'Exploration', 'Open World', 'Story Rich', 'Sci-fi', 'Atmospheric']","PC, PlayStation, Xbox",Action,PC,weapon
+Avatar Frontiers of Pandora,2024-06-17,2840770.0,69.99,106000.0,3538.0,29118.0,68.315,"Action, Adventure",Ubisoft,Ubisoft,AAA,3900000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Multiplayer', 'Immersive Sim', 'Co-op', 'First-Person', 'Online Co-Op', 'Character Customization', '3D', 'Female Protagonist', 'Shooter', 'Exploration', 'Open World', 'Story Rich', 'Sci-fi', 'Atmospheric']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Avatar Frontiers of Pandora,2024-06-17,2840770.0,69.99,106000.0,3538.0,29118.0,68.315,"Action, Adventure",Ubisoft,Ubisoft,AAA,3900000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Multiplayer', 'Immersive Sim', 'Co-op', 'First-Person', 'Online Co-Op', 'Character Customization', '3D', 'Female Protagonist', 'Shooter', 'Exploration', 'Open World', 'Story Rich', 'Sci-fi', 'Atmospheric']","PC, PlayStation, Xbox",Action,Xbox,weapon
+The Rogue Prince of Persia,2024-05-27,2717880.0,19.99,42270.0,1409.0,12603.0,87.864,"Action, Adventure, Early Access",Evil Empire,Ubisoft,AAA,618000.0,"['Action', 'Adventure', 'Singleplayer', 'Side Scroller', 'Action-Adventure', 'Stylized', 'Dark Fantasy', 'Action Roguelike', '2D Platformer', 'Parkour', 'Combat', '2D', 'Cartoony', 'Platformer', 'Roguelike', 'Roguelite', 'Fantasy', 'Atmospheric', 'Procedural Generation', 'Replay Value']",PC,Action,PC,weapon
+Senuas Saga Hellblade II,2024-05-21,2461850.0,49.99,194000.0,6451.0,46647.0,87.692,"Action, Adventure",Ninja Theory,Xbox Game Studios,AAA,7200000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Psychological Horror', 'Dark', 'Dark Fantasy', 'Third-Person', 'Cinematic', 'Walking Simulator', 'Psychological', 'Swordplay', 'Combat', 'Mythology', 'Female Protagonist', 'Story Rich', 'Atmospheric', 'Horror', 'Realistic', 'Vikings']","PC, Xbox",Action,PC,weapon
+Senuas Saga Hellblade II,2024-05-21,2461850.0,49.99,194000.0,6451.0,46647.0,87.692,"Action, Adventure",Ninja Theory,Xbox Game Studios,AAA,7200000.0,"['Action', 'Adventure', 'Singleplayer', 'Action-Adventure', 'Psychological Horror', 'Dark', 'Dark Fantasy', 'Third-Person', 'Cinematic', 'Walking Simulator', 'Psychological', 'Swordplay', 'Combat', 'Mythology', 'Female Protagonist', 'Story Rich', 'Atmospheric', 'Horror', 'Realistic', 'Vikings']","PC, Xbox",Action,Xbox,weapon
+Rotwood,2024-04-24,2015270.0,19.99,222000.0,7405.0,44070.0,75.3,"Action, Adventure, Early Access, RPG",Klei Entertainment,Klei Entertainment,AA,1800000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Multiplayer', 'Action-Adventure', ""Beat 'em up"", 'Action RPG', 'Medieval', 'Co-op', 'Dungeon Crawler', 'Online Co-Op', 'PvE', 'Hack and Slash', 'Action Roguelike', '2D', 'Exploration', 'Roguelite', 'Fantasy', 'Replay Value']",PC,Action,PC,weapon
+Dead Island 2,2024-04-22,934700.0,49.99,450000.0,12117.0,44999.0,77.321,"Action, Adventure",Dambuster Studios,Deep Silver,AA,15000000.0,"['Action', 'Adventure', 'Controller', 'Action-Adventure', 'Dark Humor', 'Gore', 'Action RPG', 'Co-op', 'First-Person', 'Dark', 'Character Customization', 'PvE', 'Hack and Slash', 'Crafting', 'Survival Horror', 'Zombies', 'Post-apocalyptic', 'Combat', 'FPS', 'Horror']","PC, PlayStation, Xbox",Action,PC,weapon
+Dead Island 2,2024-04-22,934700.0,49.99,450000.0,12117.0,44999.0,77.321,"Action, Adventure",Dambuster Studios,Deep Silver,AA,15000000.0,"['Action', 'Adventure', 'Controller', 'Action-Adventure', 'Dark Humor', 'Gore', 'Action RPG', 'Co-op', 'First-Person', 'Dark', 'Character Customization', 'PvE', 'Hack and Slash', 'Crafting', 'Survival Horror', 'Zombies', 'Post-apocalyptic', 'Combat', 'FPS', 'Horror']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Dead Island 2,2024-04-22,934700.0,49.99,450000.0,12117.0,44999.0,77.321,"Action, Adventure",Dambuster Studios,Deep Silver,AA,15000000.0,"['Action', 'Adventure', 'Controller', 'Action-Adventure', 'Dark Humor', 'Gore', 'Action RPG', 'Co-op', 'First-Person', 'Dark', 'Character Customization', 'PvE', 'Hack and Slash', 'Crafting', 'Survival Horror', 'Zombies', 'Post-apocalyptic', 'Combat', 'FPS', 'Horror']","PC, PlayStation, Xbox",Action,Xbox,weapon
+SOUTH PARK SNOW DAY,2024-03-26,1214650.0,29.99,109000.0,3617.0,17955.0,51.203,"Action, Adventure",Question,THQ Nordic,AA,2500000.0,"['Action', 'Adventure', 'Controller', 'Action-Adventure', 'Dark Humor', 'Action RPG', 'Mystery', 'Memes', 'Cartoon', 'Hack and Slash', 'Third-Person', 'Magic', 'Dark Comedy', 'Satire', 'Parody ', 'Combat', 'Cartoony', 'Fantasy', 'Comedy', 'Funny']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+SOUTH PARK SNOW DAY,2024-03-26,1214650.0,29.99,109000.0,3617.0,17955.0,51.203,"Action, Adventure",Question,THQ Nordic,AA,2500000.0,"['Action', 'Adventure', 'Controller', 'Action-Adventure', 'Dark Humor', 'Action RPG', 'Mystery', 'Memes', 'Cartoon', 'Hack and Slash', 'Third-Person', 'Magic', 'Dark Comedy', 'Satire', 'Parody ', 'Combat', 'Cartoony', 'Fantasy', 'Comedy', 'Funny']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+SOUTH PARK SNOW DAY,2024-03-26,1214650.0,29.99,109000.0,3617.0,17955.0,51.203,"Action, Adventure",Question,THQ Nordic,AA,2500000.0,"['Action', 'Adventure', 'Controller', 'Action-Adventure', 'Dark Humor', 'Action RPG', 'Mystery', 'Memes', 'Cartoon', 'Hack and Slash', 'Third-Person', 'Magic', 'Dark Comedy', 'Satire', 'Parody ', 'Combat', 'Cartoony', 'Fantasy', 'Comedy', 'Funny']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+SOUTH PARK SNOW DAY,2024-03-26,1214650.0,29.99,109000.0,3617.0,17955.0,51.203,"Action, Adventure",Question,THQ Nordic,AA,2500000.0,"['Action', 'Adventure', 'Controller', 'Action-Adventure', 'Dark Humor', 'Action RPG', 'Mystery', 'Memes', 'Cartoon', 'Hack and Slash', 'Third-Person', 'Magic', 'Dark Comedy', 'Satire', 'Parody ', 'Combat', 'Cartoony', 'Fantasy', 'Comedy', 'Funny']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+Alone in the Dark,2024-03-20,1310410.0,39.99,99120.0,3304.0,31194.0,79.086,"Action, Adventure",Pieces Interactive,THQ Nordic,AA,3900000.0,"['Action', 'Adventure', 'Lovecraftian', 'Psychological Horror', 'Mystery', 'Dark', 'Thriller', 'Third-Person', 'Survival Horror', 'Surreal', 'Cinematic', 'Detective', 'Psychological', 'Supernatural', 'Narration', 'Noir', 'Combat', 'Female Protagonist', 'Horror', 'Realistic']","PC, PlayStation, Xbox",Action,PC,weapon
+Alone in the Dark,2024-03-20,1310410.0,39.99,99120.0,3304.0,31194.0,79.086,"Action, Adventure",Pieces Interactive,THQ Nordic,AA,3900000.0,"['Action', 'Adventure', 'Lovecraftian', 'Psychological Horror', 'Mystery', 'Dark', 'Thriller', 'Third-Person', 'Survival Horror', 'Surreal', 'Cinematic', 'Detective', 'Psychological', 'Supernatural', 'Narration', 'Noir', 'Combat', 'Female Protagonist', 'Horror', 'Realistic']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Alone in the Dark,2024-03-20,1310410.0,39.99,99120.0,3304.0,31194.0,79.086,"Action, Adventure",Pieces Interactive,THQ Nordic,AA,3900000.0,"['Action', 'Adventure', 'Lovecraftian', 'Psychological Horror', 'Mystery', 'Dark', 'Thriller', 'Third-Person', 'Survival Horror', 'Surreal', 'Cinematic', 'Detective', 'Psychological', 'Supernatural', 'Narration', 'Noir', 'Combat', 'Female Protagonist', 'Horror', 'Realistic']","PC, PlayStation, Xbox",Action,Xbox,weapon
+STAR WARS Battlefront Classic Collection,2024-03-14,2446550.0,35.01,228000.0,7587.0,19857.0,22.631,Action,Aspyr,Aspyr,AA,6400000.0,"['Action', 'Old School', 'Robots', 'Aliens', 'Driving', 'Split Screen', 'First-Person', 'Third-Person Shooter', 'Artificial Intelligence', 'War', 'Military', 'Third-Person', 'Tactical', 'Futuristic', '3D', 'FPS', 'Shooter', 'Space', 'Sci-fi', 'Retro']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+STAR WARS Battlefront Classic Collection,2024-03-14,2446550.0,35.01,228000.0,7587.0,19857.0,22.631,Action,Aspyr,Aspyr,AA,6400000.0,"['Action', 'Old School', 'Robots', 'Aliens', 'Driving', 'Split Screen', 'First-Person', 'Third-Person Shooter', 'Artificial Intelligence', 'War', 'Military', 'Third-Person', 'Tactical', 'Futuristic', '3D', 'FPS', 'Shooter', 'Space', 'Sci-fi', 'Retro']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+STAR WARS Battlefront Classic Collection,2024-03-14,2446550.0,35.01,228000.0,7587.0,19857.0,22.631,Action,Aspyr,Aspyr,AA,6400000.0,"['Action', 'Old School', 'Robots', 'Aliens', 'Driving', 'Split Screen', 'First-Person', 'Third-Person Shooter', 'Artificial Intelligence', 'War', 'Military', 'Third-Person', 'Tactical', 'Futuristic', '3D', 'FPS', 'Shooter', 'Space', 'Sci-fi', 'Retro']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+STAR WARS Battlefront Classic Collection,2024-03-14,2446550.0,35.01,228000.0,7587.0,19857.0,22.631,Action,Aspyr,Aspyr,AA,6400000.0,"['Action', 'Old School', 'Robots', 'Aliens', 'Driving', 'Split Screen', 'First-Person', 'Third-Person Shooter', 'Artificial Intelligence', 'War', 'Military', 'Third-Person', 'Tactical', 'Futuristic', '3D', 'FPS', 'Shooter', 'Space', 'Sci-fi', 'Retro']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+Contra Operation Galuga,2024-03-12,2235020.0,39.99,20910.0,697.0,12244.0,88.235,Action,WayForward ,KONAMI,AA,586000.0,"['Action', 'Side Scroller', 'Tutorial', 'Aliens', 'Controller', '1980s', 'Character Customization', 'PvE', '2D Platformer', 'Combat', ""1990's"", '2D', 'Female Protagonist', 'Platformer', 'Arcade', 'Shooter', ""Shoot 'Em Up"", 'Story Rich', 'Sci-fi', 'Retro']","PC, PlayStation, Xbox, Nintendo",Action,PC,weapon
+Contra Operation Galuga,2024-03-12,2235020.0,39.99,20910.0,697.0,12244.0,88.235,Action,WayForward ,KONAMI,AA,586000.0,"['Action', 'Side Scroller', 'Tutorial', 'Aliens', 'Controller', '1980s', 'Character Customization', 'PvE', '2D Platformer', 'Combat', ""1990's"", '2D', 'Female Protagonist', 'Platformer', 'Arcade', 'Shooter', ""Shoot 'Em Up"", 'Story Rich', 'Sci-fi', 'Retro']","PC, PlayStation, Xbox, Nintendo",Action,PlayStation,weapon
+Contra Operation Galuga,2024-03-12,2235020.0,39.99,20910.0,697.0,12244.0,88.235,Action,WayForward ,KONAMI,AA,586000.0,"['Action', 'Side Scroller', 'Tutorial', 'Aliens', 'Controller', '1980s', 'Character Customization', 'PvE', '2D Platformer', 'Combat', ""1990's"", '2D', 'Female Protagonist', 'Platformer', 'Arcade', 'Shooter', ""Shoot 'Em Up"", 'Story Rich', 'Sci-fi', 'Retro']","PC, PlayStation, Xbox, Nintendo",Action,Xbox,weapon
+Contra Operation Galuga,2024-03-12,2235020.0,39.99,20910.0,697.0,12244.0,88.235,Action,WayForward ,KONAMI,AA,586000.0,"['Action', 'Side Scroller', 'Tutorial', 'Aliens', 'Controller', '1980s', 'Character Customization', 'PvE', '2D Platformer', 'Combat', ""1990's"", '2D', 'Female Protagonist', 'Platformer', 'Arcade', 'Shooter', ""Shoot 'Em Up"", 'Story Rich', 'Sci-fi', 'Retro']","PC, PlayStation, Xbox, Nintendo",Action,Nintendo,weapon
+HELLDIVERS 2,2024-02-08,553850.0,39.99,13300000.0,982000.0,427000.0,76.086,Action,Arrowhead Game Studios,PlayStation Publishing LLC,AAA,423400000.0,"['Action', 'Singleplayer', 'Multiplayer', 'Gore', 'Psychological Horror', 'Co-op', 'Capitalism', 'Third-Person Shooter', 'Online Co-Op', 'PvE', 'Third-Person', 'Shooter', 'Open World', 'Comedy', 'Space', 'Sci-fi', 'Difficult', 'Great Soundtrack', 'Violent', 'Extraction Shooter']","PC, PlayStation",Action,PC,weapon
+HELLDIVERS 2,2024-02-08,553850.0,39.99,13300000.0,982000.0,427000.0,76.086,Action,Arrowhead Game Studios,PlayStation Publishing LLC,AAA,423400000.0,"['Action', 'Singleplayer', 'Multiplayer', 'Gore', 'Psychological Horror', 'Co-op', 'Capitalism', 'Third-Person Shooter', 'Online Co-Op', 'PvE', 'Third-Person', 'Shooter', 'Open World', 'Comedy', 'Space', 'Sci-fi', 'Difficult', 'Great Soundtrack', 'Violent', 'Extraction Shooter']","PC, PlayStation",Action,PlayStation,weapon
+Suicide Squad Kill the Justice League,2024-02-02,315210.0,69.99,431000.0,14381.0,43478.0,63.939,Action,Rocksteady Studios,Warner Bros. Games,AAA,17400000.0,"['Action', 'Singleplayer', 'Casual', 'Multiplayer', 'Psychological Horror', 'Capitalism', 'LGBTQ+', 'Third-Person Shooter', 'Online Co-Op', 'PvE', 'Third-Person', 'Political', 'Comic Book', 'Politics', 'Superhero', 'Villain Protagonist', 'Looter Shooter', 'Shooter', 'Open World', 'Violent']","PC, PlayStation, Xbox",Action,PC,weapon
+Suicide Squad Kill the Justice League,2024-02-02,315210.0,69.99,431000.0,14381.0,43478.0,63.939,Action,Rocksteady Studios,Warner Bros. Games,AAA,17400000.0,"['Action', 'Singleplayer', 'Casual', 'Multiplayer', 'Psychological Horror', 'Capitalism', 'LGBTQ+', 'Third-Person Shooter', 'Online Co-Op', 'PvE', 'Third-Person', 'Political', 'Comic Book', 'Politics', 'Superhero', 'Villain Protagonist', 'Looter Shooter', 'Shooter', 'Open World', 'Violent']","PC, PlayStation, Xbox",Action,PlayStation,weapon
+Suicide Squad Kill the Justice League,2024-02-02,315210.0,69.99,431000.0,14381.0,43478.0,63.939,Action,Rocksteady Studios,Warner Bros. Games,AAA,17400000.0,"['Action', 'Singleplayer', 'Casual', 'Multiplayer', 'Psychological Horror', 'Capitalism', 'LGBTQ+', 'Third-Person Shooter', 'Online Co-Op', 'PvE', 'Third-Person', 'Political', 'Comic Book', 'Politics', 'Superhero', 'Villain Protagonist', 'Looter Shooter', 'Shooter', 'Open World', 'Violent']","PC, PlayStation, Xbox",Action,Xbox,weapon
+Drive Beyond Horizons,2025-03-24,,,,,,,,,,,,,,Action,PC,weapon
+Psycho Patrol R,2025-03-24,,,,,,,,,,,,,,Action,PC,weapon
+Mother Machine,2025-03-26,,,,,,,,,,,,,,Action,PC,weapon
+Mini Royale,2025-03-27,,,,,,,,,,,,,,Action,PC,weapon
+Atomfall,2025-03-27,,,,,,,,,,,,,,Action,PC,weapon
+Atomfall,2025-03-27,,,,,,,,,,,,,,Action,PlayStation,weapon
+Atomfall,2025-03-27,,,,,,,,,,,,,,Action,Xbox,weapon
+Gal Guardians: Servants of the Dark,2025-03-27,,,,,,,,,,,,,,Action,PC,weapon
+Gal Guardians: Servants of the Dark,2025-03-27,,,,,,,,,,,,,,Action,PlayStation,weapon
+Gal Guardians: Servants of the Dark,2025-03-27,,,,,,,,,,,,,,Action,Xbox,weapon
+Gal Guardians: Servants of the Dark,2025-03-27,,,,,,,,,,,,,,Action,Nintendo,weapon
+Twilight Monk,2025-03-27,,,,,,,,,,,,,,Action,PC,weapon
+Twilight Monk,2025-03-27,,,,,,,,,,,,,,Action,Nintendo,weapon
+Asurajang,2025-03-27,,,,,,,,,,,,,,Action,PC,weapon
+Dollhouse: Behind the Broken Mirror,2025-03-28,,,,,,,,,,,,,,Action,PC,weapon
+Dollhouse: Behind the Broken Mirror,2025-03-28,,,,,,,,,,,,,,Action,PlayStation,weapon
+Dollhouse: Behind the Broken Mirror,2025-03-28,,,,,,,,,,,,,,Action,Xbox,weapon
+Wanderlost,2025-03-01,,,,,,,,,,,,,,Action,PC,weapon
+Wanderlost,2025-03-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Wanderlost,2025-03-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Wanderlost,2025-03-01,,,,,,,,,,,,,,Action,Nintendo,weapon
+Survival Machine,2025-03-01,,,,,,,,,,,,,,Action,PC,weapon
+Steel Hunters,2025-04-02,,,,,,,,,,,,,,Action,PC,weapon
+Paradise,2025-04-02,,,,,,,,,,,,,,Action,PC,weapon
+Sand,2025-04-03,,,,,,,,,,,,,,Action,PC,weapon
+South of Midnight,2025-04-08,,,,,,,,,,,,,,Action,PC,weapon
+South of Midnight,2025-04-08,,,,,,,,,,,,,,Action,Xbox,weapon
+Monaco 2,2025-04-10,,,,,,,,,,,,,,Action,PC,weapon
+Monaco 2,2025-04-10,,,,,,,,,,,,,,Action,PlayStation,weapon
+Monaco 2,2025-04-10,,,,,,,,,,,,,,Action,Xbox,weapon
+Into the Dead: Our Darkest Days,2025-04-10,,,,,,,,,,,,,,Action,PC,weapon
+Steel Seed,2025-04-10,,,,,,,,,,,,,,Action,PC,weapon
+Steel Seed,2025-04-10,,,,,,,,,,,,,,Action,PlayStation,weapon
+Steel Seed,2025-04-10,,,,,,,,,,,,,,Action,Xbox,weapon
+Crashlands 2,2025-04-10,,,,,,,,,,,,,,Action,PC,weapon
+Spectre Divide,2025-04-11,,,,,,,,,,,,,,Action,PC,weapon
+Spectre Divide,2025-04-11,,,,,,,,,,,,,,Action,PlayStation,weapon
+Spectre Divide,2025-04-11,,,,,,,,,,,,,,Action,Xbox,weapon
+Stygian: Outer Gods,2025-04-14,,,,,,,,,,,,,,Action,PC,weapon
+Matcho,2025-04-17,,,,,,,,,,,,,,Action,PC,weapon
+Matcho,2025-04-17,,,,,,,,,,,,,,Action,PlayStation,weapon
+Matcho,2025-04-17,,,,,,,,,,,,,,Action,Xbox,weapon
+Phantom Breaker: Battle Grounds Ultimate,2025-04-17,,,,,,,,,,,,,,Action,PC,weapon
+Phantom Breaker: Battle Grounds Ultimate,2025-04-17,,,,,,,,,,,,,,Action,PlayStation,weapon
+Phantom Breaker: Battle Grounds Ultimate,2025-04-17,,,,,,,,,,,,,,Action,Xbox,weapon
+Phantom Breaker: Battle Grounds Ultimate,2025-04-17,,,,,,,,,,,,,,Action,Nintendo,weapon
+Vivat Slovakia,2025-04-17,,,,,,,,,,,,,,Action,PC,weapon
+Days Gone Remastered,2025-04-25,,,,,,,,,,,,,,Action,PC,weapon
+Days Gone Remastered,2025-04-25,,,,,,,,,,,,,,Action,PlayStation,weapon
+Skin Deep,2025-04-30,,,,,,,,,,,,,,Action,PC,weapon
+Captain Blood,2025-05-06,,,,,,,,,,,,,,Action,PC,weapon
+Captain Blood,2025-05-06,,,,,,,,,,,,,,Action,PlayStation,weapon
+Captain Blood,2025-05-06,,,,,,,,,,,,,,Action,Xbox,weapon
+Captain Blood,2025-05-06,,,,,,,,,,,,,,Action,Nintendo,weapon
+Metal Eden,2025-05-06,,,,,,,,,,,,,,Action,PC,weapon
+Metal Eden,2025-05-06,,,,,,,,,,,,,,Action,PlayStation,weapon
+Metal Eden,2025-05-06,,,,,,,,,,,,,,Action,Xbox,weapon
+Revenge of the Savage Planet,2025-05-08,,,,,,,,,,,,,,Action,PC,weapon
+Revenge of the Savage Planet,2025-05-08,,,,,,,,,,,,,,Action,PlayStation,weapon
+Revenge of the Savage Planet,2025-05-08,,,,,,,,,,,,,,Action,Xbox,weapon
+Project: Mist,2025-05-12,,,,,,,,,,,,,,Action,PC,weapon
+Doom: The Dark Ages,2025-05-15,,,,,,,,,,,,,,Action,PC,weapon
+Doom: The Dark Ages,2025-05-15,,,,,,,,,,,,,,Action,PlayStation,weapon
+Doom: The Dark Ages,2025-05-15,,,,,,,,,,,,,,Action,Xbox,weapon
+Dune: Awakening,2025-05-20,,,,,,,,,,,,,,Action,PC,weapon
+Dune: Awakening,2025-05-20,,,,,,,,,,,,,,Action,PlayStation,weapon
+Dune: Awakening,2025-05-20,,,,,,,,,,,,,,Action,Xbox,weapon
+Blades of Fire,2025-05-22,,,,,,,,,,,,,,Action,PC,weapon
+Blades of Fire,2025-05-22,,,,,,,,,,,,,,Action,PlayStation,weapon
+Blades of Fire,2025-05-22,,,,,,,,,,,,,,Action,Xbox,weapon
+Onimusha 2: Samurai's Destiny,2025-05-23,,,,,,,,,,,,,,Action,PC,weapon
+Onimusha 2: Samurai's Destiny,2025-05-23,,,,,,,,,,,,,,Action,PlayStation,weapon
+Onimusha 2: Samurai's Destiny,2025-05-23,,,,,,,,,,,,,,Action,Xbox,weapon
+Onimusha 2: Samurai's Destiny,2025-05-23,,,,,,,,,,,,,,Action,Nintendo,weapon
+Elden Ring: Nightreign,2025-05-30,,,,,,,,,,,,,,Action,PC,weapon
+Elden Ring: Nightreign,2025-05-30,,,,,,,,,,,,,,Action,PlayStation,weapon
+Elden Ring: Nightreign,2025-05-30,,,,,,,,,,,,,,Action,Xbox,weapon
+A Rat's Quest: The Way Back Home,2025-05-01,,,,,,,,,,,,,,Action,PC,weapon
+A Rat's Quest: The Way Back Home,2025-05-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+A Rat's Quest: The Way Back Home,2025-05-01,,,,,,,,,,,,,,Action,Xbox,weapon
+A Rat's Quest: The Way Back Home,2025-05-01,,,,,,,,,,,,,,Action,Nintendo,weapon
+Binary Smoke,2025-05-01,,,,,,,,,,,,,,Action,PC,weapon
+Leaden Sky,2025-05-01,,,,,,,,,,,,,,Action,PC,weapon
+Section 13,2025-05-01,,,,,,,,,,,,,,Action,PC,weapon
+Section 13,2025-05-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Section 13,2025-05-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Projekt Z: Beyond Order,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Projekt Z: Beyond Order,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Projekt Z: Beyond Order,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Star Wars: Outlaws - A Pirate's Fortune,2025-05-01,,,,,,,,,,,,,,Action,PC,weapon
+Star Wars: Outlaws - A Pirate's Fortune,2025-05-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Star Wars: Outlaws - A Pirate's Fortune,2025-05-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Shape of Dreams,2025-05-01,,,,,,,,,,,,,,Action,PC,weapon
+XDefiant,2025-06-03,,,,,,,,,,,,,,Action,PC,weapon
+XDefiant,2025-06-03,,,,,,,,,,,,,,Action,PlayStation,weapon
+XDefiant,2025-06-03,,,,,,,,,,,,,,Action,Xbox,weapon
+Death Stranding 2: On The Beach,2025-06-26,,,,,,,,,,,,,,Action,PlayStation,weapon
+System Shock 2: 25th Anniversary Remaster,2025-06-26,,,,,,,,,,,,,,Action,PC,weapon
+System Shock 2: 25th Anniversary Remaster,2025-06-26,,,,,,,,,,,,,,Action,PlayStation,weapon
+System Shock 2: 25th Anniversary Remaster,2025-06-26,,,,,,,,,,,,,,Action,Xbox,weapon
+System Shock 2: 25th Anniversary Remaster,2025-06-26,,,,,,,,,,,,,,Action,Nintendo,weapon
+Enemy of the State,2025-06-01,,,,,,,,,,,,,,Action,PC,weapon
+Enemy of the State,2025-06-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Enemy of the State,2025-06-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Resident Evil Re:Verse,2025-06-30,,,,,,,,,,,,,,Action,PC,weapon
+Resident Evil Re:Verse,2025-06-30,,,,,,,,,,,,,,Action,PlayStation,weapon
+Resident Evil Re:Verse,2025-06-30,,,,,,,,,,,,,,Action,Xbox,weapon
+Ikaro Will Not Die,2025-06-01,,,,,,,,,,,,,,Action,PC,weapon
+Ikaro Will Not Die,2025-06-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Risk of Rain: Hostile Worlds,2025-06-01,,,,,,,,,,,,,,Action,Mobile,weapon
+Luna Abyss,2025-07-01,,,,,,,,,,,,,,Action,PC,weapon
+Luna Abyss,2025-07-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Luna Abyss,2025-07-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Ferocious,2025-07-01,,,,,,,,,,,,,,Action,PC,weapon
+Nakwon: Last Paradise,2025-07-01,,,,,,,,,,,,,,Action,PC,weapon
+Dragon Ball Project: Multi,2025-07-01,,,,,,,,,,,,,,Action,PC,weapon
+Dragon Ball Project: Multi,2025-07-01,,,,,,,,,,,,,,Action,Mobile,weapon
+Code Violet,2025-07-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Metal Gear Solid Delta: Snake Eater,2025-08-28,,,,,,,,,,,,,,Action,PC,weapon
+Metal Gear Solid Delta: Snake Eater,2025-08-28,,,,,,,,,,,,,,Action,PlayStation,weapon
+Metal Gear Solid Delta: Snake Eater,2025-08-28,,,,,,,,,,,,,,Action,Xbox,weapon
+Shinobi: Art of Vengeance,2025-08-29,,,,,,,,,,,,,,Action,PC,weapon
+Shinobi: Art of Vengeance,2025-08-29,,,,,,,,,,,,,,Action,PlayStation,weapon
+Shinobi: Art of Vengeance,2025-08-29,,,,,,,,,,,,,,Action,Xbox,weapon
+Shinobi: Art of Vengeance,2025-08-29,,,,,,,,,,,,,,Action,Nintendo,weapon
+Haunted Space,2025-08-01,,,,,,,,,,,,,,Action,PC,weapon
+Haunted Space,2025-08-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Haunted Space,2025-08-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Ghost Knight: A Dark Tale,2025-08-01,,,,,,,,,,,,,,Action,PC,weapon
+Second-Loop,2025-08-01,,,,,,,,,,,,,,Action,PC,weapon
+King of Meat,2025-08-01,,,,,,,,,,,,,,Action,PC,weapon
+King of Meat,2025-08-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+King of Meat,2025-08-01,,,,,,,,,,,,,,Action,Xbox,weapon
+King of Meat,2025-08-01,,,,,,,,,,,,,,Action,Nintendo,weapon
+Hell Is Us,2025-09-04,,,,,,,,,,,,,,Action,PC,weapon
+Hell Is Us,2025-09-04,,,,,,,,,,,,,,Action,PlayStation,weapon
+Hell Is Us,2025-09-04,,,,,,,,,,,,,,Action,Xbox,weapon
+Terminator 2D: No Fate,2025-09-05,,,,,,,,,,,,,,Action,PC,weapon
+Terminator 2D: No Fate,2025-09-05,,,,,,,,,,,,,,Action,PlayStation,weapon
+Terminator 2D: No Fate,2025-09-05,,,,,,,,,,,,,,Action,Xbox,weapon
+Terminator 2D: No Fate,2025-09-05,,,,,,,,,,,,,,Action,Nintendo,weapon
+Borderlands 4,2025-09-23,,,,,,,,,,,,,,Action,PC,weapon
+Borderlands 4,2025-09-23,,,,,,,,,,,,,,Action,PlayStation,weapon
+Borderlands 4,2025-09-23,,,,,,,,,,,,,,Action,Xbox,weapon
+Lost Region,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Lost Region,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Lost Region,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Akatori,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Akatori,2025-12-31,,,,,,,,,,,,,,Action,Nintendo,weapon
+Rooted,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Morbid Metal,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Song of Iron 2,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Song of Iron 2,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Rubber Royale,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Aeterna Lucis,2025-09-01,,,,,,,,,,,,,,Action,PC,weapon
+Aeterna Lucis,2025-09-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Aeterna Lucis,2025-09-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Aeterna Lucis,2025-09-01,,,,,,,,,,,,,,Action,Nintendo,weapon
+UnderMine 2,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Killer Bean,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Tenjutsu,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Star Wars: Hunters,2025-10-01,,,,,,,,,,,,,,Action,PC,weapon
+Star Wars: Hunters,2025-10-01,,,,,,,,,,,,,,Action,Mobile,weapon
+Star Wars: Hunters,2025-10-01,,,,,,,,,,,,,,Action,Nintendo,weapon
+Double Dragon Revive,2025-10-23,,,,,,,,,,,,,,Action,PC,weapon
+Double Dragon Revive,2025-10-23,,,,,,,,,,,,,,Action,PlayStation,weapon
+Double Dragon Revive,2025-10-23,,,,,,,,,,,,,,Action,Xbox,weapon
+We Are Legion: Rome,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+We Are Legion: Rome,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+We Are Legion: Rome,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Core Decay,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Athanasia,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Karlson,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Block N Load 2,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Evercore Heroes,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+RetroSpace,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Witches of the New World,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Lost Skies,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+EVE: Vanguard,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Project CW,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Decadent,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Decadent,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Decadent,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Deep State,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Lost Legions,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+CyberTaxi: Lunatic Nights,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Unsung Warriors,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Tree of Life 2,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Dark Moonlight,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Elements,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Crowsworn,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Bushiden,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Bushiden,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Immortal: And the Death that Follows,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Immortal: And the Death that Follows,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Immortal: And the Death that Follows,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Immortal: And the Death that Follows,2025-12-31,,,,,,,,,,,,,,Action,Nintendo,weapon
+Twisted Tower,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Alterborn,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Alterborn,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Glaciered,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Carnival Hunt,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Hotel Barcelona,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Hotel Barcelona,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Hotel Barcelona,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Usual June,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Mariachi Legends,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Battlefield 7,2025-11-01,,,,,,,,,,,,,,Action,PC,weapon
+Battlefield 7,2025-11-01,,,,,,,,,,,,,,Action,PlayStation,weapon
+Battlefield 7,2025-11-01,,,,,,,,,,,,,,Action,Xbox,weapon
+Possessor(s),2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Possessor(s),2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+The Eternal Life of Goldman,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+The Eternal Life of Goldman,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+The Eternal Life of Goldman,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+The Eternal Life of Goldman,2025-12-31,,,,,,,,,,,,,,Action,Nintendo,weapon
+Glory to the Heroes,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Cleared Hot,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Permafrost,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Cronos: The New Dawn,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Cronos: The New Dawn,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Cronos: The New Dawn,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+The Stomping Land,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+SCUM,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Metroid Prime 4: Beyond,2025-12-31,,,,,,,,,,,,,,Action,Nintendo,weapon
+Hytale,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Negative Atmosphere,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Brutal Fate,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+4 Minutes to the Apocalypse,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+4 Minutes to the Apocalypse,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+4 Minutes to the Apocalypse,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+ARK II,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+ARK II,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Instinction,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Instinction,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Instinction,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Pioner,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Echoes of the End,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Echoes of the End,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Echoes of the End,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+ExeKiller,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+The Lost Wild,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+ARC Raiders,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+ARC Raiders,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+ARC Raiders,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Mina the Hollower,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Mina the Hollower,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Mina the Hollower,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+ILL,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Road to Vostok,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Tom Clancy's Rainbow Six Mobile,2025-12-31,,,,,,,,,,,,,,Action,Mobile,weapon
+Skate Story,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Skate Story,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Terminator: Survivors,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Terminator: Survivors,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Terminator: Survivors,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Tom Clancy's The Division: Resurgence,2025-12-31,,,,,,,,,,,,,,Action,Mobile,weapon
+Bounty Star,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Bounty Star,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Bounty Star,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Phantom Hellcat,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Phantom Hellcat,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Phantom Hellcat,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Stick It to the Stickman,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Blight: Survival,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Echoes of the Living,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Outbreak Island,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Unrecord,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Mouse: P.I. for Hire,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Mouse: P.I. for Hire,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Mouse: P.I. for Hire,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Mouse: P.I. for Hire,2025-12-31,,,,,,,,,,,,,,Action,Nintendo,weapon
+Breeze in the Clouds,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+John Carpenter's Toxic Commando,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+John Carpenter's Toxic Commando,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+John Carpenter's Toxic Commando,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Killing Floor III,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Killing Floor III,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Killing Floor III,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Streets of Rogue 2,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Grime II,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Tormented Souls 2,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Tormented Souls 2,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Tormented Souls 2,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Deep Rock Galactic: Rogue Core,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Fumes,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Quantic River,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Spine,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Spine,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Spine,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Last Sentinel,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Den of Wolves,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Kemuri,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Tank Squad,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Exoborne,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Exoborne,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Exoborne,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Jurassic Park: Survival,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Jurassic Park: Survival,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Jurassic Park: Survival,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Out of Action,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Agent 64: Spies Never Die,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Across the Wonderlands,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Zombie Army VR,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Zombie Army VR,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Marvel 1943: Rise of Hydra,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Industria 2,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+SWAT Commander,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Eriksholm: The Stolen Dream,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Eriksholm: The Stolen Dream,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Eriksholm: The Stolen Dream,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Full Fathom,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+God Save Birmingham,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Ghost of Yotei,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Rogue Point,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Renown,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Total Chaos,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Shadow Labyrinth,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Shadow Labyrinth,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Shadow Labyrinth,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Shadow Labyrinth,2025-12-31,,,,,,,,,,,,,,Action,Nintendo,weapon
+Splitgate 2,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Splitgate 2,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Splitgate 2,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Shadow Project,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Machine Mind,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+RailGods of Hysterra,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Call of Duty 2025,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Call of Duty 2025,2025-12-31,,,,,,,,,,,,,,Action,PlayStation,weapon
+Call of Duty 2025,2025-12-31,,,,,,,,,,,,,,Action,Xbox,weapon
+Beneath,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Lost Rift,2025-12-31,,,,,,,,,,,,,,Action,PC,weapon
+Assetto Corsa EVO,2025-01-16,3058630.0,39.99,300000.0,10007.0,71378.0,70.92,"Simulation, Early Access, Sports, Racing",Kunos Simulazioni,505 GAMES,AA,8000000.0,"['Simulation', 'Singleplayer', 'Multiplayer', 'Sports', 'Automobile Sim', 'Racing', 'Controller', 'Driving', 'VR', 'First-Person', 'Artificial Intelligence', 'eSports', '3D Vision', 'TrackIR', 'Physics', 'Open World', 'Atmospheric', 'PvP', 'Realistic', 'Replay Value']",PC,Racing,PC,porting
+Ara History Untold,2024-09-24,2021880.0,59.99,51840.0,1728.0,34793.0,68.808,Strategy,Oxide Games,Xbox Game Studios,AAA,2400000.0,"['Strategy', 'Singleplayer', 'Multiplayer', 'Tutorial', 'Turn-Based Tactics', 'LGBTQ+', 'Historical', 'Military', 'Grand Strategy', 'Turn-Based Strategy', 'Alternate History', 'Villain Protagonist', 'Diplomacy', '3D', 'Top-Down', '4X', 'Turn-Based', 'City Builder', 'Resource Management', 'Management']",PC,Strategy,PC,porting
+Sumerian Six,2024-09-02,1429850.0,29.99,22260.0,742.0,7609.0,94.474,"Action, Strategy",Artificer,Devolver Digital,AA,512000.0,"['Strategy', 'Action', 'Adventure', 'Turn-Based Tactics', 'Demons', 'War', 'World War II', 'Tactical', 'Turn-Based Strategy', 'Dark Comedy', 'Alternate History', 'Real Time Tactics', 'Isometric', '3D', 'Female Protagonist', 'Stealth', 'Linear', 'Story Rich', 'Atmospheric', 'Colorful']",PC,Strategy,PC,porting
+The Crush House,2024-08-09,2337820.0,16.99,9120.0,304.0,3504.0,73.026,"Adventure, Simulation",Nerial,Devolver Digital,AA,113000.0,"['Adventure', 'Simulation', 'Singleplayer', 'Casual', 'Psychological Horror', 'Mystery', 'LGBTQ+', 'Political', 'Dating Sim', 'Conversation', 'Life Sim', 'Politics', 'Romance', 'Cartoony', 'Female Protagonist', 'Comedy', 'Story Rich', 'Funny', 'Colorful', 'Sexual Content']",PC,Simulation,PC,porting
+The Rogue Prince of Persia,2024-05-27,2717880.0,19.99,42270.0,1409.0,12603.0,87.864,"Action, Adventure, Early Access",Evil Empire,Ubisoft,AAA,618000.0,"['Action', 'Adventure', 'Singleplayer', 'Side Scroller', 'Action-Adventure', 'Stylized', 'Dark Fantasy', 'Action Roguelike', '2D Platformer', 'Parkour', 'Combat', '2D', 'Cartoony', 'Platformer', 'Roguelike', 'Roguelite', 'Fantasy', 'Atmospheric', 'Procedural Generation', 'Replay Value']",PC,Action,PC,porting
+Homeworld 3,2024-05-13,1840080.0,59.99,232000.0,7734.0,90709.0,40.354,"Simulation, Strategy",Blackbird Interactive,Gearbox Publishing,AA,10800000.0,"['Strategy', 'Simulation', 'Singleplayer', 'Multiplayer', 'Competitive', 'Co-op', 'Tactical', 'Real-Time', 'Isometric', 'Combat', '3D', 'Female Protagonist', 'RTS', 'Roguelike', 'Roguelite', 'Management', 'Story Rich', 'Space', 'Sci-fi', 'Atmospheric']",PC,Strategy,PC,porting
+The Political Machine 2024,2024-05-02,2512090.0,19.99,6510.0,217.0,1185.0,76.037,"Simulation, Strategy",Stardock Entertainment,Stardock Entertainment,AA,94828.0,"['Strategy', 'Simulation', 'Singleplayer', 'Multiplayer', 'Economy', 'Education', 'Capitalism', 'Character Customization', 'Historical', 'Political', 'Turn-Based Strategy', 'America', 'Alternate History', 'Politics', 'Political Sim', 'Cartoony', 'Building', 'Card Game', 'Management', 'PvP']",PC,Strategy,PC,porting
+Rotwood,2024-04-24,2015270.0,19.99,222000.0,7405.0,44070.0,75.3,"Action, Adventure, Early Access, RPG",Klei Entertainment,Klei Entertainment,AA,1800000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Multiplayer', 'Action-Adventure', ""Beat 'em up"", 'Action RPG', 'Medieval', 'Co-op', 'Dungeon Crawler', 'Online Co-Op', 'PvE', 'Hack and Slash', 'Action Roguelike', '2D', 'Exploration', 'Roguelite', 'Fantasy', 'Replay Value']",PC,Action,PC,porting
+Millennia,2024-03-26,1268590.0,39.99,96600.0,3548.0,39583.0,69.109,"Simulation, Strategy",C Prompt Games,Paradox Interactive,AA,2900000.0,"['Strategy', 'Simulation', 'Singleplayer', 'Multiplayer', 'Economy', 'Turn-Based Combat', 'Hex Grid', 'War', 'Historical', 'Military', 'Grand Strategy', 'Political', 'Tactical', 'Turn-Based Strategy', 'Alternate History', 'Diplomacy', '4X', 'Turn-Based', 'Management', 'Replay Value']",PC,Strategy,PC,porting
+WE ARE FOOTBALL 2024,2024-03-04,1951410.0,39.99,24240.0,808.0,3131.0,79.703,"Simulation, Strategy, Casual, Sports",Winning Streak Games,"HandyGames, THQ Nordic","AA, Indie",689000.0,"['Strategy', 'Simulation', 'Singleplayer', 'Multiplayer', 'Sports', 'Economy', '4 Player Local', 'Moddable', 'Time Management', 'PvE', 'Tactical', 'Level Editor', 'Local Multiplayer', '3D', 'Building', 'Resource Management', 'Management', 'Family Friendly', 'PvP', 'Football (Soccer)']",PC,Sports,PC,porting
+Monster Hunter Wilds,2025-02-28,2246340.0,69.99,6100000.0,176000.0,457000.0,59.188,"Action, Adventure, RPG",Capcom,Capcom,AAA,343500000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Underwater', 'Multiplayer', 'Action RPG', 'Souls-like', 'Co-op', 'Dragons', 'Online Co-Op', 'Character Customization', 'Third-Person', 'Dating Sim', 'Hunting', 'Fantasy', 'Open World', 'Atmospheric', 'Great Soundtrack', 'Cute']","PC, PlayStation, Xbox",RPG,PC,liveops
+Monster Hunter Wilds,2025-02-28,2246340.0,69.99,6100000.0,176000.0,457000.0,59.188,"Action, Adventure, RPG",Capcom,Capcom,AAA,343500000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Underwater', 'Multiplayer', 'Action RPG', 'Souls-like', 'Co-op', 'Dragons', 'Online Co-Op', 'Character Customization', 'Third-Person', 'Dating Sim', 'Hunting', 'Fantasy', 'Open World', 'Atmospheric', 'Great Soundtrack', 'Cute']","PC, PlayStation, Xbox",RPG,PlayStation,liveops
+Monster Hunter Wilds,2025-02-28,2246340.0,69.99,6100000.0,176000.0,457000.0,59.188,"Action, Adventure, RPG",Capcom,Capcom,AAA,343500000.0,"['Action', 'Adventure', 'Singleplayer', 'RPG', 'Underwater', 'Multiplayer', 'Action RPG', 'Souls-like', 'Co-op', 'Dragons', 'Online Co-Op', 'Character Customization', 'Third-Person', 'Dating Sim', 'Hunting', 'Fantasy', 'Open World', 'Atmospheric', 'Great Soundtrack', 'Cute']","PC, PlayStation, Xbox",RPG,Xbox,liveops
+Path of Exile 2,2024-12-06,2694490.0,29.99,5000000.0,138000.0,329000.0,80.145,"Action, Adventure, Early Access, RPG, MMO",Grinding Gear Games,Grinding Gear Games,AA,119400000.0,"['Action', 'Adventure', 'Inventory Management', 'Free to Play', 'Early Access', 'RPG', 'Multiplayer', 'Action RPG', 'Souls-like', 'Dungeon Crawler', 'Dark', 'MMORPG', 'Online Co-Op', 'Loot', 'Dark Fantasy', 'Character Customization', 'Hack and Slash', 'Crafting', 'Isometric', 'Horror']","PC, PlayStation, Xbox",RPG,PC,liveops
+Path of Exile 2,2024-12-06,2694490.0,29.99,5000000.0,138000.0,329000.0,80.145,"Action, Adventure, Early Access, RPG, MMO",Grinding Gear Games,Grinding Gear Games,AA,119400000.0,"['Action', 'Adventure', 'Inventory Management', 'Free to Play', 'Early Access', 'RPG', 'Multiplayer', 'Action RPG', 'Souls-like', 'Dungeon Crawler', 'Dark', 'MMORPG', 'Online Co-Op', 'Loot', 'Dark Fantasy', 'Character Customization', 'Hack and Slash', 'Crafting', 'Isometric', 'Horror']","PC, PlayStation, Xbox",RPG,PlayStation,liveops
+Path of Exile 2,2024-12-06,2694490.0,29.99,5000000.0,138000.0,329000.0,80.145,"Action, Adventure, Early Access, RPG, MMO",Grinding Gear Games,Grinding Gear Games,AA,119400000.0,"['Action', 'Adventure', 'Inventory Management', 'Free to Play', 'Early Access', 'RPG', 'Multiplayer', 'Action RPG', 'Souls-like', 'Dungeon Crawler', 'Dark', 'MMORPG', 'Online Co-Op', 'Loot', 'Dark Fantasy', 'Character Customization', 'Hack and Slash', 'Crafting', 'Isometric', 'Horror']","PC, PlayStation, Xbox",RPG,Xbox,liveops
+Warhammer 40000 Space Marine 2,2024-09-09,2183900.0,59.99,4200000.0,156000.0,293000.0,82.85,"Action, Adventure, RPG",Saber Interactive,Focus Entertainment,AA,195300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Third-Person Shooter', 'PvE', 'War', 'Third-Person', 'Cinematic', 'Wargame', 'Futuristic', 'Narration', 'Warhammer 40K', '3D', 'Fantasy', 'Space', 'Sci-fi', 'Realistic']","PC, PlayStation, Xbox",Action,PC,liveops
+Warhammer 40000 Space Marine 2,2024-09-09,2183900.0,59.99,4200000.0,156000.0,293000.0,82.85,"Action, Adventure, RPG",Saber Interactive,Focus Entertainment,AA,195300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Third-Person Shooter', 'PvE', 'War', 'Third-Person', 'Cinematic', 'Wargame', 'Futuristic', 'Narration', 'Warhammer 40K', '3D', 'Fantasy', 'Space', 'Sci-fi', 'Realistic']","PC, PlayStation, Xbox",Action,PlayStation,liveops
+Warhammer 40000 Space Marine 2,2024-09-09,2183900.0,59.99,4200000.0,156000.0,293000.0,82.85,"Action, Adventure, RPG",Saber Interactive,Focus Entertainment,AA,195300000.0,"['Action', 'Adventure', 'Singleplayer', 'Multiplayer', 'Action-Adventure', 'Co-op', 'Third-Person Shooter', 'PvE', 'War', 'Third-Person', 'Cinematic', 'Wargame', 'Futuristic', 'Narration', 'Warhammer 40K', '3D', 'Fantasy', 'Space', 'Sci-fi', 'Realistic']","PC, PlayStation, Xbox",Action,Xbox,liveops
+HELLDIVERS 2,2024-02-08,553850.0,39.99,13300000.0,982000.0,427000.0,76.086,Action,Arrowhead Game Studios,PlayStation Publishing LLC,AAA,423400000.0,"['Action', 'Singleplayer', 'Multiplayer', 'Gore', 'Psychological Horror', 'Co-op', 'Capitalism', 'Third-Person Shooter', 'Online Co-Op', 'PvE', 'Third-Person', 'Shooter', 'Open World', 'Comedy', 'Space', 'Sci-fi', 'Difficult', 'Great Soundtrack', 'Violent', 'Extraction Shooter']","PC, PlayStation",Action,PC,liveops
+HELLDIVERS 2,2024-02-08,553850.0,39.99,13300000.0,982000.0,427000.0,76.086,Action,Arrowhead Game Studios,PlayStation Publishing LLC,AAA,423400000.0,"['Action', 'Singleplayer', 'Multiplayer', 'Gore', 'Psychological Horror', 'Co-op', 'Capitalism', 'Third-Person Shooter', 'Online Co-Op', 'PvE', 'Third-Person', 'Shooter', 'Open World', 'Comedy', 'Space', 'Sci-fi', 'Difficult', 'Great Soundtrack', 'Violent', 'Extraction Shooter']","PC, PlayStation",Action,PlayStation,liveops
